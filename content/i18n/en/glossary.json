@@ -1,0 +1,5117 @@
+{
+  "absolute refractive index": {
+    "word": "absolute refractive index",
+    "definition": "the refractive index found by comparing the speed of light in vacuum with its speed in a material",
+    "variations": [
+      "absolute refractive index",
+      "absolute refractive indices"
+    ],
+    "emoji": "🌌🔢",
+    "id": "gl001"
+  },
+  "absorb": {
+    "word": "absorb",
+    "definition": "To take in light instead of reflecting it.",
+    "variations": [
+      "absorb",
+      "absorbs",
+      "absorbed",
+      "absorbing",
+      "absorption"
+    ],
+    "emoji": "🧽🌈",
+    "id": "gl002"
+  },
+  "absorption": {
+    "word": "absorption",
+    "definition": "The taking in of light or other energy by a material instead of reflecting it.",
+    "variations": [
+      "absorption"
+    ],
+    "emoji": "🧽💡",
+    "id": "gl003"
+  },
+  "accommodation": {
+    "word": "accommodation",
+    "definition": "The adjustment of the eye lens so the eye can focus clearly on objects at different distances.",
+    "variations": [
+      "accommodation"
+    ],
+    "emoji": "👁️🔧",
+    "id": "gl004"
+  },
+  "accumulation": {
+    "word": "accumulation",
+    "definition": "a gathering or build-up of something, such as electric charge",
+    "variations": [
+      "accumulations",
+      "accumulate",
+      "accumulates",
+      "accumulating"
+    ],
+    "emoji": "➕⚡",
+    "id": "gl005"
+  },
+  "accumulator": {
+    "word": "accumulator",
+    "definition": "another name for a rechargeable secondary cell or battery",
+    "variations": [
+      "accumulator",
+      "accumulators"
+    ],
+    "emoji": "🔋🔄",
+    "id": "gl006"
+  },
+  "additive colour mixing": {
+    "word": "additive colour mixing",
+    "definition": "A way of making colours by adding coloured lights together.",
+    "variations": [
+      "additive colour mixing",
+      "additive mixing"
+    ],
+    "emoji": "➕💡🌈",
+    "id": "gl007"
+  },
+  "additive mixing": {
+    "word": "additive mixing",
+    "definition": "The mixing of coloured lights to make new colours, often producing brighter results.",
+    "variations": [
+      "additive mixing"
+    ],
+    "emoji": "💡➕🌈",
+    "id": "gl008"
+  },
+  "adjustment knob": {
+    "word": "adjustment knob",
+    "definition": "a turning part used to change focus or position in an optical instrument",
+    "variations": [
+      "adjustment knob",
+      "adjustment knobs"
+    ],
+    "emoji": "⚙️🔄",
+    "id": "gl009"
+  },
+  "align": {
+    "word": "align",
+    "definition": "To arrange in the same direction or in a straight line.",
+    "variations": [
+      "align",
+      "aligned",
+      "aligning",
+      "alignment"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl010"
+  },
+  "alignment": {
+    "word": "alignment",
+    "definition": "the arrangement of things in the same direction or position",
+    "variations": [
+      "alignment",
+      "alignments",
+      "align",
+      "aligned"
+    ],
+    "emoji": "📏➡️",
+    "id": "gl011"
+  },
+  "alloy": {
+    "word": "alloy",
+    "definition": "a mixture of two or more elements, usually including a metal",
+    "variations": [
+      "alloy",
+      "alloys"
+    ],
+    "emoji": "🧪⚙️",
+    "id": "gl012"
+  },
+  "alternating current": {
+    "word": "alternating current",
+    "definition": "an electric current that keeps changing direction back and forth",
+    "variations": [
+      "alternating current",
+      "AC"
+    ],
+    "emoji": "⚡🔄",
+    "id": "gl013"
+  },
+  "alternator": {
+    "word": "alternator",
+    "definition": "a device in a vehicle that produces electricity and charges the battery while the engine runs",
+    "variations": [
+      "alternator",
+      "alternators"
+    ],
+    "emoji": "🚗⚡",
+    "id": "gl014"
+  },
+  "ammeter": {
+    "word": "ammeter",
+    "definition": "An instrument used to measure electric current.",
+    "variations": [
+      "ammeter",
+      "ammeters"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl015"
+  },
+  "ampere": {
+    "word": "ampere",
+    "definition": "the unit used to measure electric current",
+    "variations": [
+      "ampere",
+      "amperes",
+      "amp",
+      "amps",
+      "A"
+    ],
+    "emoji": "⚡📏",
+    "id": "gl016"
+  },
+  "angle of declination": {
+    "word": "angle of declination",
+    "definition": "The angle between geographic north and magnetic north.",
+    "variations": [
+      "angle of declination",
+      "declination angle",
+      "declination"
+    ],
+    "emoji": "📐🧭",
+    "id": "gl017"
+  },
+  "angle of deviation": {
+    "word": "angle of deviation",
+    "definition": "the angle between the original path of light and its final path after passing through a prism",
+    "variations": [
+      "angle of deviation",
+      "angles of deviation"
+    ],
+    "emoji": "📐🔺",
+    "id": "gl018"
+  },
+  "angle of emergence": {
+    "word": "angle of emergence",
+    "definition": "the angle between the light leaving a prism and the normal at the second surface",
+    "variations": [
+      "angle of emergence",
+      "angles of emergence"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl019"
+  },
+  "angle of incidence": {
+    "word": "angle of incidence",
+    "definition": "the angle between the incident ray and the normal line",
+    "variations": [
+      "angle of incidence",
+      "angles of incidence"
+    ],
+    "emoji": "📐➡️",
+    "id": "gl020"
+  },
+  "angle of inclination": {
+    "word": "angle of inclination",
+    "definition": "The angle between the Earth’s magnetic field direction and the horizontal direction.",
+    "variations": [
+      "angle of inclination",
+      "inclination angle",
+      "inclination"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl021"
+  },
+  "angle of minimum deviation": {
+    "word": "angle of minimum deviation",
+    "definition": "the smallest angle through which a prism bends a ray of light",
+    "variations": [
+      "angle of minimum deviation"
+    ],
+    "emoji": "📐🔻",
+    "id": "gl022"
+  },
+  "angle of reflection": {
+    "word": "angle of reflection",
+    "definition": "the angle between the reflected light ray and the normal",
+    "variations": [
+      "angle of reflection",
+      "angles of reflection"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl023"
+  },
+  "angle of refraction": {
+    "word": "angle of refraction",
+    "definition": "the angle between the refracted ray and the normal line",
+    "variations": [
+      "angle of refraction",
+      "angles of refraction"
+    ],
+    "emoji": "📐↘️",
+    "id": "gl024"
+  },
+  "angular magnification": {
+    "word": "angular magnification",
+    "definition": "The increase in the apparent size of an object as seen by the eye through an optical instrument.",
+    "variations": [
+      "angular magnification"
+    ],
+    "emoji": "👁️📈",
+    "id": "gl025"
+  },
+  "angular size": {
+    "word": "angular size",
+    "definition": "How large an object appears to the eye based on the angle it covers.",
+    "variations": [
+      "angular size"
+    ],
+    "emoji": "👁️📐",
+    "id": "gl026"
+  },
+  "anticlockwise": {
+    "word": "anticlockwise",
+    "definition": "moving in the opposite direction to the hands of a clock",
+    "variations": [
+      "anticlockwise",
+      "counterclockwise"
+    ],
+    "emoji": "🕒↩️",
+    "id": "gl027"
+  },
+  "aperture": {
+    "word": "aperture",
+    "definition": "the opening in a camera lens that lets light pass through",
+    "variations": [
+      "aperture",
+      "apertures"
+    ],
+    "emoji": "🕳️📷",
+    "id": "gl028"
+  },
+  "apex angle": {
+    "word": "apex angle",
+    "definition": "the angle at the top of a prism between its two sloping sides",
+    "variations": [
+      "apex angle",
+      "apex angles"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl029"
+  },
+  "apparent depth": {
+    "word": "apparent depth",
+    "definition": "the depth an object seems to be when seen through a transparent material like water",
+    "variations": [
+      "apparent depth",
+      "apparent depths"
+    ],
+    "emoji": "👁️💧",
+    "id": "gl030"
+  },
+  "aqueous humour": {
+    "word": "aqueous humour",
+    "definition": "the clear liquid in the front part of the eye behind the cornea",
+    "variations": [
+      "aqueous humour"
+    ],
+    "emoji": "💧👁️",
+    "id": "gl031"
+  },
+  "astigmatism": {
+    "word": "astigmatism",
+    "definition": "A defect of vision caused by an uneven curve of the cornea or lens, making images look blurred.",
+    "variations": [
+      "astigmatism"
+    ],
+    "emoji": "👁️🌫️",
+    "id": "gl032"
+  },
+  "astronomical telescope": {
+    "word": "astronomical telescope",
+    "definition": "an optical instrument used to view very distant objects such as stars and planets",
+    "variations": [
+      "astronomical telescope",
+      "astronomical telescopes"
+    ],
+    "emoji": "🔭⭐",
+    "id": "gl033"
+  },
+  "atom": {
+    "word": "atom",
+    "definition": "the tiny basic unit of matter that makes up all materials",
+    "variations": [
+      "atom",
+      "atoms"
+    ],
+    "emoji": "⚛️🔬",
+    "id": "gl034"
+  },
+  "atomic dipole": {
+    "word": "atomic dipole",
+    "definition": "A tiny magnetic part of an atom that acts like a very small magnet.",
+    "variations": [
+      "atomic dipole",
+      "atomic dipoles"
+    ],
+    "emoji": "⚛️🧲",
+    "id": "gl035"
+  },
+  "attract": {
+    "word": "attract",
+    "definition": "to pull toward each other",
+    "variations": [
+      "attract",
+      "attracts",
+      "attracted",
+      "attraction"
+    ],
+    "emoji": "🧲➡️",
+    "id": "gl036"
+  },
+  "axis of rotation": {
+    "word": "axis of rotation",
+    "definition": "The imaginary line around which the Earth spins.",
+    "variations": [
+      "axis of rotation",
+      "axes of rotation"
+    ],
+    "emoji": "🌍🔄",
+    "id": "gl037"
+  },
+  "bacteria": {
+    "word": "bacteria",
+    "definition": "very small living organisms, some of which can cause disease",
+    "variations": [
+      "bacterium",
+      "bacteria"
+    ],
+    "emoji": "🦠🧫",
+    "id": "gl038"
+  },
+  "balance point": {
+    "word": "balance point",
+    "definition": "The point in an electrical setup where no current flows through the detector, showing that two voltages are equal.",
+    "variations": [
+      "balance point",
+      "balance points"
+    ],
+    "emoji": "⚖️📍",
+    "id": "gl039"
+  },
+  "balanced": {
+    "word": "balanced",
+    "definition": "in a bridge circuit, a state where no current flows through the galvanometer",
+    "variations": [
+      "balanced",
+      "balance",
+      "balancing"
+    ],
+    "emoji": "⚖️🔌",
+    "id": "gl040"
+  },
+  "bar magnet": {
+    "word": "bar magnet",
+    "definition": "A straight magnet shaped like a bar, with a north pole at one end and a south pole at the other.",
+    "variations": [
+      "bar magnet",
+      "bar magnets"
+    ],
+    "emoji": "🧲",
+    "id": "gl041"
+  },
+  "base": {
+    "word": "base",
+    "definition": "the bottom support part of an instrument",
+    "variations": [
+      "base",
+      "bases"
+    ],
+    "emoji": "🧱🔬",
+    "id": "gl042"
+  },
+  "battery": {
+    "word": "battery",
+    "definition": "A source of electrical energy made of one or more cells.",
+    "variations": [
+      "battery",
+      "batteries"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl043"
+  },
+  "beam": {
+    "word": "beam",
+    "definition": "a group of light rays traveling together",
+    "variations": [
+      "beam",
+      "beams"
+    ],
+    "emoji": "🔦✨",
+    "id": "gl044"
+  },
+  "biconvex lens": {
+    "word": "biconvex lens",
+    "definition": "a lens that curves outward on both sides and can bring light rays together",
+    "variations": [
+      "biconvex lens",
+      "biconvex lenses"
+    ],
+    "emoji": "🔍()",
+    "id": "gl045"
+  },
+  "binoculars": {
+    "word": "binoculars",
+    "definition": "an optical instrument with two side-by-side tubes used to view distant objects more clearly",
+    "variations": [
+      "binocular",
+      "binoculars"
+    ],
+    "emoji": "🔭👀",
+    "id": "gl046"
+  },
+  "bioluminescence": {
+    "word": "bioluminescence",
+    "definition": "natural light produced by living things such as fireflies",
+    "variations": [
+      "bioluminescence"
+    ],
+    "emoji": "🪲✨🌿",
+    "id": "gl047"
+  },
+  "blurred": {
+    "word": "blurred",
+    "definition": "Not sharp or clear to the eye.",
+    "variations": [
+      "blurred",
+      "blur",
+      "blurs",
+      "blurring"
+    ],
+    "emoji": "🌫️👀",
+    "id": "gl048"
+  },
+  "boundary": {
+    "word": "boundary",
+    "definition": "the surface or line where two different media meet",
+    "variations": [
+      "boundary",
+      "boundaries"
+    ],
+    "emoji": "↔️📍",
+    "id": "gl049"
+  },
+  "branch": {
+    "word": "branch",
+    "definition": "One path of current in a parallel circuit.",
+    "variations": [
+      "branch",
+      "branches"
+    ],
+    "emoji": "🌿⚡",
+    "id": "gl050"
+  },
+  "brittle": {
+    "word": "brittle",
+    "definition": "hard but easy to crack or break",
+    "variations": [
+      "brittle"
+    ],
+    "emoji": "⚠️碎",
+    "id": "gl051"
+  },
+  "Brownian motion": {
+    "word": "Brownian motion",
+    "definition": "the random movement of very tiny particles in a fluid",
+    "variations": [
+      "Brownian motion"
+    ],
+    "emoji": "🌫️↔️",
+    "id": "gl052"
+  },
+  "calorimeter": {
+    "word": "calorimeter",
+    "definition": "A container used to measure the heat gained or lost in an experiment.",
+    "variations": [
+      "calorimeter",
+      "calorimeters"
+    ],
+    "emoji": "🌡️🧪",
+    "id": "gl053"
+  },
+  "camera": {
+    "word": "camera",
+    "definition": "A device that uses light to form and record images.",
+    "variations": [
+      "camera",
+      "cameras"
+    ],
+    "emoji": "📷",
+    "id": "gl054"
+  },
+  "capacitance": {
+    "word": "capacitance",
+    "definition": "the amount of charge a capacitor can store for a given potential difference",
+    "variations": [
+      "capacitance"
+    ],
+    "emoji": "⚡📦",
+    "id": "gl055"
+  },
+  "capacitor": {
+    "word": "capacitor",
+    "definition": "a device that stores electric charge and energy",
+    "variations": [
+      "capacitor",
+      "capacitors"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl056"
+  },
+  "cartridge fuse": {
+    "word": "cartridge fuse",
+    "definition": "A fuse enclosed in a tube with metal ends, designed to melt and break the circuit when current is too high.",
+    "variations": [
+      "cartridge fuse",
+      "cartridge fuses"
+    ],
+    "emoji": "🧯⚡",
+    "id": "gl057"
+  },
+  "cell": {
+    "word": "cell",
+    "definition": "A device that supplies electrical energy to a circuit.",
+    "variations": [
+      "cell",
+      "cells"
+    ],
+    "emoji": "🔋",
+    "id": "gl058"
+  },
+  "centre of curvature": {
+    "word": "centre of curvature",
+    "definition": "the centre of the circle of which a curved mirror is a part",
+    "variations": [
+      "centre of curvature",
+      "centres of curvature"
+    ],
+    "emoji": "⭕📍",
+    "id": "gl059"
+  },
+  "charge": {
+    "word": "charge",
+    "definition": "a basic property of matter that can be positive or negative and causes electric forces between objects",
+    "variations": [
+      "charge",
+      "charges",
+      "charged",
+      "charging"
+    ],
+    "emoji": "⚡➕➖",
+    "id": "gl060"
+  },
+  "charge carrier": {
+    "word": "charge carrier",
+    "definition": "a particle that carries electric charge through a material",
+    "variations": [
+      "charge carrier",
+      "charge carriers"
+    ],
+    "emoji": "⚡🚚",
+    "id": "gl061"
+  },
+  "charge density": {
+    "word": "charge density",
+    "definition": "the amount of electric charge found on a certain area of a surface",
+    "variations": [
+      "charge densities"
+    ],
+    "emoji": "⚡📍",
+    "id": "gl062"
+  },
+  "charge distribution": {
+    "word": "charge distribution",
+    "definition": "the way electric charge is spread over an object",
+    "variations": [
+      "charge distribution",
+      "charge distributions",
+      "distribution"
+    ],
+    "emoji": "⚡📍",
+    "id": "gl063"
+  },
+  "charge-coupled device": {
+    "word": "charge-coupled device",
+    "definition": "an electronic device in a digital camera that detects light and turns it into digital information",
+    "variations": [
+      "charge-coupled device",
+      "charge-coupled devices",
+      "CCD",
+      "CCD array",
+      "CCD arrays"
+    ],
+    "emoji": "💾📷🔌",
+    "id": "gl064"
+  },
+  "charge-discharge": {
+    "word": "charge-discharge",
+    "definition": "the gaining and then sudden releasing of electric charge",
+    "variations": [
+      "charge-discharge",
+      "discharge",
+      "discharges"
+    ],
+    "emoji": "⚡💥",
+    "id": "gl065"
+  },
+  "charging": {
+    "word": "charging",
+    "definition": "the process of putting electric charge into an object or device such as a capacitor",
+    "variations": [
+      "charge",
+      "charges",
+      "charged"
+    ],
+    "emoji": "⚡🔋",
+    "id": "gl066"
+  },
+  "ciliary muscles": {
+    "word": "ciliary muscles",
+    "definition": "the muscles in the eye that change the shape of the lens to focus on objects at different distances",
+    "variations": [
+      "ciliary muscle",
+      "ciliary muscles"
+    ],
+    "emoji": "👁️💪",
+    "id": "gl067"
+  },
+  "circuit": {
+    "word": "circuit",
+    "definition": "A complete path through which electric current can flow.",
+    "variations": [
+      "circuit",
+      "circuits"
+    ],
+    "emoji": "🔌🔄",
+    "id": "gl068"
+  },
+  "circuit breaker": {
+    "word": "circuit breaker",
+    "definition": "a safety switch that automatically opens a circuit when the current becomes too large and can be reset later",
+    "variations": [
+      "circuit breaker",
+      "circuit breakers"
+    ],
+    "emoji": "⚡🔘",
+    "id": "gl069"
+  },
+  "clarity": {
+    "word": "clarity",
+    "definition": "the quality of being clear and easy to see",
+    "variations": [
+      "clarity",
+      "clear"
+    ],
+    "emoji": "✨👁️",
+    "id": "gl070"
+  },
+  "clockwise": {
+    "word": "clockwise",
+    "definition": "moving in the same direction as the hands of a clock",
+    "variations": [
+      "clockwise"
+    ],
+    "emoji": "🕒",
+    "id": "gl071"
+  },
+  "closed loop": {
+    "word": "closed loop",
+    "definition": "a path or line that forms a complete circle and does not have an end",
+    "variations": [
+      "closed loop",
+      "closed loops"
+    ],
+    "emoji": "🔁",
+    "id": "gl072"
+  },
+  "CMY": {
+    "word": "CMY",
+    "definition": "A colour system that uses cyan, magenta, and yellow, often in printing.",
+    "variations": [
+      "CMY"
+    ],
+    "emoji": "🔷🟣🟡",
+    "id": "gl073"
+  },
+  "coarse adjustment knob": {
+    "word": "coarse adjustment knob",
+    "definition": "the knob used for large, quick focusing movements on a microscope",
+    "variations": [
+      "coarse adjustment knob",
+      "coarse adjustment knobs"
+    ],
+    "emoji": "⚙️🔬",
+    "id": "gl074"
+  },
+  "coil": {
+    "word": "coil",
+    "definition": "Wire wound in loops, often used to make an electromagnet.",
+    "variations": [
+      "coil",
+      "coils"
+    ],
+    "emoji": "🌀",
+    "id": "gl075"
+  },
+  "collision": {
+    "word": "collision",
+    "definition": "a hit between moving particles, such as electrons and atoms",
+    "variations": [
+      "collision",
+      "collisions"
+    ],
+    "emoji": "💥⚛️",
+    "id": "gl076"
+  },
+  "colour addition": {
+    "word": "colour addition",
+    "definition": "The mixing of light colours to make new colours.",
+    "variations": [
+      "colour addition",
+      "addition of colours of light"
+    ],
+    "emoji": "➕🌈",
+    "id": "gl077"
+  },
+  "colour subtraction": {
+    "word": "colour subtraction",
+    "definition": "The process in which some colours of light are removed because a material absorbs them.",
+    "variations": [
+      "colour subtraction",
+      "subtraction of colours of light"
+    ],
+    "emoji": "➖🌈",
+    "id": "gl078"
+  },
+  "colour wheel": {
+    "word": "colour wheel",
+    "definition": "a circular arrangement of colours used to show how colours are related",
+    "variations": [
+      "colour wheel",
+      "colour wheels"
+    ],
+    "emoji": "🎡🎨",
+    "id": "gl079"
+  },
+  "compass": {
+    "word": "compass",
+    "definition": "A device with a magnetised needle that points north-south and helps show direction.",
+    "variations": [
+      "compass",
+      "compasses"
+    ],
+    "emoji": "🧭",
+    "id": "gl080"
+  },
+  "compass needle": {
+    "word": "compass needle",
+    "definition": "the moving pointer in a compass that lines up with a magnetic field",
+    "variations": [
+      "compass needle",
+      "compass needles"
+    ],
+    "emoji": "🧭",
+    "id": "gl081"
+  },
+  "complementary colours": {
+    "word": "complementary colours",
+    "definition": "Two light colours that mix together in the right amounts to make white light.",
+    "variations": [
+      "complementary colour",
+      "complementary colours"
+    ],
+    "emoji": "⚪🌈",
+    "id": "gl082"
+  },
+  "component": {
+    "word": "component",
+    "definition": "a part of a machine, system, or object",
+    "variations": [
+      "component",
+      "components"
+    ],
+    "emoji": "🧩⚙️",
+    "id": "gl083"
+  },
+  "compound microscope": {
+    "word": "compound microscope",
+    "definition": "A microscope that uses more than one lens to give greater magnification.",
+    "variations": [
+      "compound microscope",
+      "compound microscopes"
+    ],
+    "emoji": "🔬➕",
+    "id": "gl084"
+  },
+  "concave lens": {
+    "word": "concave lens",
+    "definition": "A lens that spreads light rays outward. It is used to correct short-sightedness.",
+    "variations": [
+      "concave lens",
+      "concave lenses"
+    ],
+    "emoji": "🔎↔️",
+    "id": "gl085"
+  },
+  "concave mirror": {
+    "word": "concave mirror",
+    "definition": "a mirror that curves inward, like the inside of a bowl, and can form real or virtual images",
+    "variations": [
+      "concave mirror",
+      "concave mirrors"
+    ],
+    "emoji": "🪞🔍",
+    "id": "gl086"
+  },
+  "concentrate": {
+    "word": "concentrate",
+    "definition": "to bring things together into a smaller area or point",
+    "variations": [
+      "concentrate",
+      "concentrates",
+      "concentrated",
+      "concentrating"
+    ],
+    "emoji": "🎯💡",
+    "id": "gl087"
+  },
+  "condenser": {
+    "word": "condenser",
+    "definition": "a lens system in a microscope that gathers and directs light onto the object",
+    "variations": [
+      "condenser",
+      "condensers"
+    ],
+    "emoji": "💡🔬",
+    "id": "gl088"
+  },
+  "conduct": {
+    "word": "conduct",
+    "definition": "to allow electricity to pass through",
+    "variations": [
+      "conduct",
+      "conducts",
+      "conducted",
+      "conducting",
+      "conductor"
+    ],
+    "emoji": "🔌⚡",
+    "id": "gl089"
+  },
+  "conductance": {
+    "word": "conductance",
+    "definition": "a measure of how easily electric current flows through a conductor",
+    "variations": [
+      "conductance",
+      "conductances"
+    ],
+    "emoji": "⚡🛣️",
+    "id": "gl090"
+  },
+  "conduction": {
+    "word": "conduction",
+    "definition": "the transfer of electric charge by direct contact",
+    "variations": [
+      "conduction"
+    ],
+    "emoji": "🤝⚡",
+    "id": "gl091"
+  },
+  "conductor": {
+    "word": "conductor",
+    "definition": "a material that allows electric charge to move easily through it",
+    "variations": [
+      "conductor",
+      "conductors"
+    ],
+    "emoji": "🔌⚡",
+    "id": "gl092"
+  },
+  "cones": {
+    "word": "cones",
+    "definition": "special cells in the retina that help us see color and details in bright light",
+    "variations": [
+      "cone",
+      "cones"
+    ],
+    "emoji": "🌈👁️",
+    "id": "gl093"
+  },
+  "conservation of charge": {
+    "word": "conservation of charge",
+    "definition": "the rule that total electric charge stays the same and is not created or destroyed",
+    "variations": [
+      "conservation of charge"
+    ],
+    "emoji": "⚖️⚡",
+    "id": "gl094"
+  },
+  "constantan": {
+    "word": "constantan",
+    "definition": "an alloy with nearly constant resistance when temperature changes; often used in experiments",
+    "variations": [
+      "constantan"
+    ],
+    "emoji": "🧪🔩",
+    "id": "gl095"
+  },
+  "consumer unit": {
+    "word": "consumer unit",
+    "definition": "the main box in a house that receives electricity and sends it to different circuits",
+    "variations": [
+      "consumer unit",
+      "consumer units"
+    ],
+    "emoji": "🏠📦⚡",
+    "id": "gl096"
+  },
+  "contact": {
+    "word": "contact",
+    "definition": "touching between objects that allows charge to move from one to another",
+    "variations": [
+      "contact",
+      "contacts",
+      "contacted"
+    ],
+    "emoji": "🤝⚡",
+    "id": "gl097"
+  },
+  "continuity": {
+    "word": "continuity",
+    "definition": "the condition in which a wire or component has an unbroken path for current to flow",
+    "variations": [
+      "continuity"
+    ],
+    "emoji": "🔗⚡",
+    "id": "gl098"
+  },
+  "converge": {
+    "word": "converge",
+    "definition": "to come together at one point",
+    "variations": [
+      "converge",
+      "converges",
+      "converged",
+      "converging"
+    ],
+    "emoji": "➡️🎯",
+    "id": "gl099"
+  },
+  "converging": {
+    "word": "converging",
+    "definition": "coming together toward one point",
+    "variations": [
+      "converging",
+      "converge",
+      "converged"
+    ],
+    "emoji": "↘️🎯",
+    "id": "gl100"
+  },
+  "converging lens": {
+    "word": "converging lens",
+    "definition": "A lens that bends light rays inward so they come closer together. It is also called a convex lens.",
+    "variations": [
+      "converging lens",
+      "converging lenses"
+    ],
+    "emoji": "🔍➡️",
+    "id": "gl101"
+  },
+  "convex lens": {
+    "word": "convex lens",
+    "definition": "A lens that is thicker in the middle and usually brings light rays together.",
+    "variations": [
+      "convex lens",
+      "convex lenses"
+    ],
+    "emoji": "🔍➡️",
+    "id": "gl102"
+  },
+  "convex mirror": {
+    "word": "convex mirror",
+    "definition": "a mirror that curves outward and usually forms a smaller, upright, virtual image",
+    "variations": [
+      "convex mirror",
+      "convex mirrors"
+    ],
+    "emoji": "🪞🌐",
+    "id": "gl103"
+  },
+  "core": {
+    "word": "core",
+    "definition": "The inner part of something; in electromagnets, it is often an iron piece placed inside a coil.",
+    "variations": [
+      "core",
+      "cores"
+    ],
+    "emoji": "🧲⭕",
+    "id": "gl104"
+  },
+  "cornea": {
+    "word": "cornea",
+    "definition": "The clear curved front surface of the eye that helps bend light into the eye.",
+    "variations": [
+      "cornea",
+      "corneas"
+    ],
+    "emoji": "👁️🔍",
+    "id": "gl105"
+  },
+  "coulomb": {
+    "word": "coulomb",
+    "definition": "the unit used to measure electric charge",
+    "variations": [
+      "coulomb",
+      "coulombs"
+    ],
+    "emoji": "⚡📏",
+    "id": "gl106"
+  },
+  "critical angle": {
+    "word": "critical angle",
+    "definition": "the angle of incidence in a denser material that makes the angle of refraction exactly 90 degrees",
+    "variations": [
+      "critical angle",
+      "critical angles"
+    ],
+    "emoji": "📐⚠️",
+    "id": "gl107"
+  },
+  "cross-sectional area": {
+    "word": "cross-sectional area",
+    "definition": "the area of the cut surface of a wire or object when sliced across",
+    "variations": [
+      "cross-sectional area",
+      "cross section area",
+      "cross-sectional areas"
+    ],
+    "emoji": "⭕📐",
+    "id": "gl108"
+  },
+  "crystalline lens": {
+    "word": "crystalline lens",
+    "definition": "the clear flexible lens inside the eye that helps focus light on the retina",
+    "variations": [
+      "crystalline lens",
+      "crystalline lenses"
+    ],
+    "emoji": "👁️🔍",
+    "id": "gl109"
+  },
+  "current": {
+    "word": "current",
+    "definition": "The flow of electric charge through a circuit.",
+    "variations": [
+      "current",
+      "currents"
+    ],
+    "emoji": "⚡➡️",
+    "id": "gl110"
+  },
+  "current electricity": {
+    "word": "current electricity",
+    "definition": "electricity produced by charges flowing through a conductor",
+    "variations": [
+      "current electricity"
+    ],
+    "emoji": "⚡➡️",
+    "id": "gl111"
+  },
+  "current rating": {
+    "word": "current rating",
+    "definition": "the maximum current a device such as a fuse can safely carry",
+    "variations": [
+      "current rating",
+      "current ratings"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl112"
+  },
+  "curved mirror": {
+    "word": "curved mirror",
+    "definition": "a mirror with a bent reflecting surface",
+    "variations": [
+      "curved mirror",
+      "curved mirrors"
+    ],
+    "emoji": "🪞🌙",
+    "id": "gl113"
+  },
+  "cyan": {
+    "word": "cyan",
+    "definition": "A light colour made by mixing blue and green light.",
+    "variations": [
+      "cyan"
+    ],
+    "emoji": "🔵🟢",
+    "id": "gl114"
+  },
+  "cylindrical magnet": {
+    "word": "cylindrical magnet",
+    "definition": "a magnet shaped like a cylinder",
+    "variations": [
+      "cylindrical magnet",
+      "cylindrical magnets"
+    ],
+    "emoji": "🧲🥫",
+    "id": "gl115"
+  },
+  "deficiency": {
+    "word": "deficiency",
+    "definition": "a lack of something or an amount that is less than needed",
+    "variations": [
+      "deficiency",
+      "deficiencies"
+    ],
+    "emoji": "➖⚠️",
+    "id": "gl116"
+  },
+  "demagnetisation": {
+    "word": "demagnetisation",
+    "definition": "the process of removing or destroying the magnetic property of an object",
+    "variations": [
+      "demagnetisation",
+      "demagnetise",
+      "demagnetised",
+      "demagnetising"
+    ],
+    "emoji": "🧲❌",
+    "id": "gl117"
+  },
+  "demagnetised": {
+    "word": "demagnetised",
+    "definition": "made to lose magnetic properties",
+    "variations": [
+      "demagnetised",
+      "demagnetized",
+      "demagnetise",
+      "demagnetize"
+    ],
+    "emoji": "🧲⬇️",
+    "id": "gl118"
+  },
+  "depolarizer": {
+    "word": "depolarizer",
+    "definition": "a substance used in a cell to remove hydrogen and reduce polarization",
+    "variations": [
+      "depolarizer",
+      "depolarizers"
+    ],
+    "emoji": "🧪🫧",
+    "id": "gl119"
+  },
+  "deviation": {
+    "word": "deviation",
+    "definition": "a change from the original direction or path",
+    "variations": [
+      "deviation",
+      "deviations",
+      "deviate",
+      "deviates",
+      "deviated",
+      "deviating"
+    ],
+    "emoji": "↪️📍",
+    "id": "gl120"
+  },
+  "diameter": {
+    "word": "diameter",
+    "definition": "the distance across a circle through its centre",
+    "variations": [
+      "diameter",
+      "diameters"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl121"
+  },
+  "diaphragm": {
+    "word": "diaphragm",
+    "definition": "the part of a camera that controls how much light passes through the lens",
+    "variations": [
+      "diaphragm",
+      "diaphragms"
+    ],
+    "emoji": "📷🌗",
+    "id": "gl122"
+  },
+  "dielectric": {
+    "word": "dielectric",
+    "definition": "an insulating material placed between the plates of a capacitor",
+    "variations": [
+      "dielectric",
+      "dielectrics"
+    ],
+    "emoji": "🧱⚡",
+    "id": "gl123"
+  },
+  "diffuse reflection": {
+    "word": "diffuse reflection",
+    "definition": "reflection from a rough surface where light rays scatter in many directions",
+    "variations": [
+      "diffuse reflection"
+    ],
+    "emoji": "↗️↘️🌫️",
+    "id": "gl124"
+  },
+  "digital camera": {
+    "word": "digital camera",
+    "definition": "a camera that stores pictures electronically instead of on film",
+    "variations": [
+      "digital camera",
+      "digital cameras"
+    ],
+    "emoji": "📷💾",
+    "id": "gl125"
+  },
+  "dimensionless": {
+    "word": "dimensionless",
+    "definition": "having no unit of measurement",
+    "variations": [
+      "dimensionless"
+    ],
+    "emoji": "🔢",
+    "id": "gl126"
+  },
+  "diminished": {
+    "word": "diminished",
+    "definition": "Made to appear smaller than the actual object.",
+    "variations": [
+      "diminished"
+    ],
+    "emoji": "🔽🖼️",
+    "id": "gl127"
+  },
+  "dioptre": {
+    "word": "dioptre",
+    "definition": "the unit used to measure lens power",
+    "variations": [
+      "dioptre",
+      "dioptres",
+      "diopter",
+      "diopters"
+    ],
+    "emoji": "📏🔢",
+    "id": "gl128"
+  },
+  "dip angle": {
+    "word": "dip angle",
+    "definition": "Another name for the angle of inclination of the Earth’s magnetic field.",
+    "variations": [
+      "dip angle",
+      "dip angles",
+      "dip"
+    ],
+    "emoji": "📐⬇️",
+    "id": "gl129"
+  },
+  "dip needle": {
+    "word": "dip needle",
+    "definition": "an instrument used to measure the angle at which a magnetic field is tilted",
+    "variations": [
+      "dip needle",
+      "dip needles"
+    ],
+    "emoji": "🧭📐",
+    "id": "gl130"
+  },
+  "dipole": {
+    "word": "dipole",
+    "definition": "a tiny magnetic part of a material that has a north side and a south side",
+    "variations": [
+      "dipole",
+      "dipoles"
+    ],
+    "emoji": "🧲↔️",
+    "id": "gl131"
+  },
+  "discharge": {
+    "word": "discharge",
+    "definition": "to lose electric charge or allow it to flow away",
+    "variations": [
+      "discharge",
+      "discharges",
+      "discharged",
+      "discharging"
+    ],
+    "emoji": "⚡⬇️",
+    "id": "gl132"
+  },
+  "discharging": {
+    "word": "discharging",
+    "definition": "the process by which stored electric charge leaves an object or device",
+    "variations": [
+      "discharge",
+      "discharges",
+      "discharged"
+    ],
+    "emoji": "⚡⬇️",
+    "id": "gl133"
+  },
+  "dispersion": {
+    "word": "dispersion",
+    "definition": "the splitting of white light into different colours",
+    "variations": [
+      "dispersion",
+      "disperse",
+      "dispersed"
+    ],
+    "emoji": "🌈💡",
+    "id": "gl134"
+  },
+  "distilled water": {
+    "word": "distilled water",
+    "definition": "water that has been purified by removing dissolved substances",
+    "variations": [
+      "distilled water"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl135"
+  },
+  "distortion": {
+    "word": "distortion",
+    "definition": "a change that makes an image look bent, stretched, or not correct",
+    "variations": [
+      "distortion",
+      "distortions"
+    ],
+    "emoji": "🌀🖼️",
+    "id": "gl136"
+  },
+  "distribution board": {
+    "word": "distribution board",
+    "definition": "a board or box that distributes electricity from the main supply to different circuits",
+    "variations": [
+      "distribution board",
+      "distribution boards"
+    ],
+    "emoji": "📦🏠⚡",
+    "id": "gl137"
+  },
+  "diverge": {
+    "word": "diverge",
+    "definition": "to move apart or spread away from each other",
+    "variations": [
+      "diverge",
+      "diverges",
+      "diverged",
+      "divergence"
+    ],
+    "emoji": "↔️🍃",
+    "id": "gl138"
+  },
+  "divergence": {
+    "word": "divergence",
+    "definition": "the spreading apart of the leaves of an electroscope when charge is present",
+    "variations": [
+      "diverge",
+      "diverges",
+      "diverged"
+    ],
+    "emoji": "🍃↔️",
+    "id": "gl139"
+  },
+  "diverging": {
+    "word": "diverging",
+    "definition": "spreading out from a point",
+    "variations": [
+      "diverging",
+      "diverge",
+      "diverged"
+    ],
+    "emoji": "↗️↘️",
+    "id": "gl140"
+  },
+  "diverging lens": {
+    "word": "diverging lens",
+    "definition": "A lens that makes light rays spread out from each other.",
+    "variations": [
+      "diverging lens",
+      "diverging lenses"
+    ],
+    "emoji": "💡↘️↙️",
+    "id": "gl141"
+  },
+  "diverging mirror": {
+    "word": "diverging mirror",
+    "definition": "a mirror that causes reflected rays to spread out",
+    "variations": [
+      "diverging mirror",
+      "diverging mirrors"
+    ],
+    "emoji": "↗️↘️",
+    "id": "gl142"
+  },
+  "domain": {
+    "word": "domain",
+    "definition": "A group of tiny magnetic dipoles pointing in the same direction inside a material.",
+    "variations": [
+      "domain",
+      "domains"
+    ],
+    "emoji": "🧲🧩",
+    "id": "gl143"
+  },
+  "double-touch method": {
+    "word": "double-touch method",
+    "definition": "A method of magnetising using two magnets stroked from the middle toward the ends.",
+    "variations": [
+      "double-touch method"
+    ],
+    "emoji": "2️⃣🧲",
+    "id": "gl144"
+  },
+  "dry cell": {
+    "word": "dry cell",
+    "definition": "a cell that uses a paste electrolyte instead of a liquid one",
+    "variations": [
+      "dry cell",
+      "dry cells"
+    ],
+    "emoji": "🔋 сух",
+    "id": "gl145"
+  },
+  "e.m.f.": {
+    "word": "e.m.f.",
+    "definition": "The total energy supplied by a cell per unit charge; it is the cell’s voltage when no current is drawn.",
+    "variations": [
+      "e.m.f.",
+      "emf",
+      "electromotive force"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl146"
+  },
+  "earth": {
+    "word": "earth",
+    "definition": "the ground, used as a place where electric charge can flow to or from",
+    "variations": [
+      "earth",
+      "earthed",
+      "earthing"
+    ],
+    "emoji": "🌍⚡",
+    "id": "gl147"
+  },
+  "earth wire": {
+    "word": "earth wire",
+    "definition": "A safety wire that connects the metal body of an appliance to the ground.",
+    "variations": [
+      "earth wire",
+      "earth wires",
+      "earth cable",
+      "earth cables"
+    ],
+    "emoji": "🟢🛡️",
+    "id": "gl148"
+  },
+  "Earth’s magnetic field": {
+    "word": "Earth’s magnetic field",
+    "definition": "The magnetic field around the Earth that makes a compass point north-south.",
+    "variations": [
+      "Earth’s magnetic field",
+      "earth magnetic field",
+      "Earth magnetic field"
+    ],
+    "emoji": "🌍🧲",
+    "id": "gl149"
+  },
+  "earthing": {
+    "word": "earthing",
+    "definition": "the process of connecting an object to the ground so extra charge can flow away",
+    "variations": [
+      "earthing",
+      "earthed"
+    ],
+    "emoji": "🌍⚡",
+    "id": "gl150"
+  },
+  "effective resistance": {
+    "word": "effective resistance",
+    "definition": "The combined resistance of several resistors acting together in a circuit.",
+    "variations": [
+      "effective resistance",
+      "equivalent resistance",
+      "total resistance"
+    ],
+    "emoji": "⚡🧮",
+    "id": "gl151"
+  },
+  "electric charge": {
+    "word": "electric charge",
+    "definition": "a property of matter that causes electrical effects such as attraction or repulsion",
+    "variations": [
+      "electric charge",
+      "electric charges",
+      "charge",
+      "charges"
+    ],
+    "emoji": "⚡➕➖",
+    "id": "gl152"
+  },
+  "electric circuit": {
+    "word": "electric circuit",
+    "definition": "a closed path through which electric charge can flow",
+    "variations": [
+      "electric circuit",
+      "electric circuits",
+      "circuit",
+      "circuits"
+    ],
+    "emoji": "🔌🔁",
+    "id": "gl153"
+  },
+  "electric current": {
+    "word": "electric current",
+    "definition": "the flow of electric charge, usually through a wire",
+    "variations": [
+      "electric current",
+      "electric currents",
+      "current",
+      "currents"
+    ],
+    "emoji": "⚡➡️",
+    "id": "gl154"
+  },
+  "electric power": {
+    "word": "electric power",
+    "definition": "The rate at which electrical energy is transferred or used.",
+    "variations": [
+      "electric power",
+      "electrical power",
+      "power"
+    ],
+    "emoji": "⚡⏱️",
+    "id": "gl155"
+  },
+  "electric shock": {
+    "word": "electric shock",
+    "definition": "A harmful effect caused when electric current passes through the body.",
+    "variations": [
+      "electric shock",
+      "electric shocks"
+    ],
+    "emoji": "⚠️⚡",
+    "id": "gl156"
+  },
+  "electrical conductor": {
+    "word": "electrical conductor",
+    "definition": "a material that allows electric current to pass through it easily",
+    "variations": [
+      "electrical conductor",
+      "electrical conductors",
+      "conductor",
+      "conductors"
+    ],
+    "emoji": "⚡🔩",
+    "id": "gl157"
+  },
+  "electrical energy": {
+    "word": "electrical energy",
+    "definition": "Energy carried by electric charges and changed into other forms such as heat, light, or motion.",
+    "variations": [
+      "electrical energy"
+    ],
+    "emoji": "⚡🔋",
+    "id": "gl158"
+  },
+  "electrification": {
+    "word": "electrification",
+    "definition": "the process of giving an object electric charge",
+    "variations": [
+      "electrification",
+      "electrify",
+      "electrified",
+      "electrifying"
+    ],
+    "emoji": "⚡➕",
+    "id": "gl159"
+  },
+  "electrode": {
+    "word": "electrode",
+    "definition": "a conductor through which electric current enters or leaves a cell or solution",
+    "variations": [
+      "electrode",
+      "electrodes"
+    ],
+    "emoji": "🔩⚡",
+    "id": "gl160"
+  },
+  "electrolyte": {
+    "word": "electrolyte",
+    "definition": "a liquid or paste that contains ions and allows electric charge to move in a cell",
+    "variations": [
+      "electrolyte",
+      "electrolytes"
+    ],
+    "emoji": "🧪🔋",
+    "id": "gl161"
+  },
+  "electrolytic capacitor": {
+    "word": "electrolytic capacitor",
+    "definition": "a capacitor that uses a chemical layer as part of its insulation and must be connected the correct way",
+    "variations": [
+      "electrolytic capacitor",
+      "electrolytic capacitors"
+    ],
+    "emoji": "🔋⚠️⚡",
+    "id": "gl162"
+  },
+  "electromagnet": {
+    "word": "electromagnet",
+    "definition": "a magnet made by electric current flowing through a coil or wire",
+    "variations": [
+      "electromagnet",
+      "electromagnets"
+    ],
+    "emoji": "🧲⚡",
+    "id": "gl163"
+  },
+  "electromotive force": {
+    "word": "electromotive force",
+    "definition": "the energy supplied per unit charge by a source when no current is flowing",
+    "variations": [
+      "electromotive force",
+      "e.m.f",
+      "emf"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl164"
+  },
+  "electron": {
+    "word": "electron",
+    "definition": "a very small particle in an atom that has a negative charge",
+    "variations": [
+      "electron",
+      "electrons"
+    ],
+    "emoji": "➖🔬",
+    "id": "gl165"
+  },
+  "electrophorus": {
+    "word": "electrophorus",
+    "definition": "a device used to produce electric charge by induction",
+    "variations": [
+      "electrophorus",
+      "electrophoruses"
+    ],
+    "emoji": "⚡🔘",
+    "id": "gl166"
+  },
+  "electroscope": {
+    "word": "electroscope",
+    "definition": "an instrument used to detect the presence and type of electric charge",
+    "variations": [
+      "electroscope",
+      "electroscopes"
+    ],
+    "emoji": "⚡🍃🔍",
+    "id": "gl167"
+  },
+  "electrostatic": {
+    "word": "electrostatic",
+    "definition": "related to electric charges that are not moving",
+    "variations": [
+      "electrostatic",
+      "electrostatics"
+    ],
+    "emoji": "⚡🫧",
+    "id": "gl168"
+  },
+  "electrostatic discharge": {
+    "word": "electrostatic discharge",
+    "definition": "the sudden flow of built-up static charge, often producing a spark",
+    "variations": [
+      "electrostatic discharge",
+      "electrostatic discharges",
+      "discharge",
+      "discharges"
+    ],
+    "emoji": "⚡💥✨",
+    "id": "gl169"
+  },
+  "electrostatic force": {
+    "word": "electrostatic force",
+    "definition": "the push or pull between electric charges that are at rest",
+    "variations": [
+      "electrostatic force",
+      "electrostatic forces"
+    ],
+    "emoji": "⚡↔️",
+    "id": "gl170"
+  },
+  "emergent ray": {
+    "word": "emergent ray",
+    "definition": "the ray of light that comes out of a material or prism",
+    "variations": [
+      "emergent ray",
+      "emergent rays"
+    ],
+    "emoji": "💡↗️",
+    "id": "gl171"
+  },
+  "enlarged": {
+    "word": "enlarged",
+    "definition": "made bigger than the original object",
+    "variations": [
+      "enlarged",
+      "enlarge",
+      "enlarges",
+      "enlarging"
+    ],
+    "emoji": "🔍⬆️",
+    "id": "gl172"
+  },
+  "equator": {
+    "word": "equator",
+    "definition": "The imaginary line around the middle of the Earth, equally distant from the poles.",
+    "variations": [
+      "equator",
+      "equators",
+      "magnetic equator",
+      "geographical equator"
+    ],
+    "emoji": "🌍➖",
+    "id": "gl173"
+  },
+  "equivalent capacitance": {
+    "word": "equivalent capacitance",
+    "definition": "the single capacitance that can replace a group of capacitors in a circuit",
+    "variations": [
+      "equivalent capacitances"
+    ],
+    "emoji": "🧮🔋",
+    "id": "gl174"
+  },
+  "equivalent resistance": {
+    "word": "equivalent resistance",
+    "definition": "The single resistance that can replace several resistors in a circuit and have the same effect.",
+    "variations": [
+      "equivalent resistance",
+      "effective resistance",
+      "total resistance"
+    ],
+    "emoji": "⚡➕",
+    "id": "gl175"
+  },
+  "erect": {
+    "word": "erect",
+    "definition": "Describes an image that is upright, not upside down.",
+    "variations": [
+      "erect"
+    ],
+    "emoji": "⬆️🖼️",
+    "id": "gl176"
+  },
+  "eyepiece": {
+    "word": "eyepiece",
+    "definition": "the lens at the end of an optical instrument that you look through",
+    "variations": [
+      "eyepiece",
+      "eyepieces"
+    ],
+    "emoji": "👁️🔭",
+    "id": "gl177"
+  },
+  "f-number": {
+    "word": "f-number",
+    "definition": "a number that shows the size of a camera aperture; a larger f-number means a smaller opening",
+    "variations": [
+      "f-number",
+      "f-numbers"
+    ],
+    "emoji": "🔢📷",
+    "id": "gl178"
+  },
+  "far point": {
+    "word": "far point",
+    "definition": "The farthest distance from the eye at which an object can be seen clearly.",
+    "variations": [
+      "far point",
+      "far points"
+    ],
+    "emoji": "👁️🌍",
+    "id": "gl179"
+  },
+  "farad": {
+    "word": "farad",
+    "definition": "the unit used to measure capacitance",
+    "variations": [
+      "farad",
+      "farads"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl180"
+  },
+  "ferromagnetic": {
+    "word": "ferromagnetic",
+    "definition": "able to be strongly magnetised and often kept as a magnet",
+    "variations": [
+      "ferromagnetic",
+      "ferromagnetism",
+      "ferromagnetic materials"
+    ],
+    "emoji": "🧲🪨",
+    "id": "gl181"
+  },
+  "ferromagnetic material": {
+    "word": "ferromagnetic material",
+    "definition": "a material such as iron that magnetic field lines pass through easily and that can be strongly magnetised",
+    "variations": [
+      "ferromagnetic material",
+      "ferromagnetic materials"
+    ],
+    "emoji": "🧲🔩",
+    "id": "gl182"
+  },
+  "field line": {
+    "word": "field line",
+    "definition": "A line used to show the direction and shape of a magnetic field.",
+    "variations": [
+      "field line",
+      "field lines",
+      "magnetic field line",
+      "magnetic field lines"
+    ],
+    "emoji": "〰️🧲",
+    "id": "gl183"
+  },
+  "filament": {
+    "word": "filament",
+    "definition": "the thin wire inside a bulb that glows when current passes through it",
+    "variations": [
+      "filament",
+      "filaments"
+    ],
+    "emoji": "💡🔥",
+    "id": "gl184"
+  },
+  "film": {
+    "word": "film",
+    "definition": "a light-sensitive material in a camera where an image is recorded",
+    "variations": [
+      "film",
+      "films"
+    ],
+    "emoji": "🎞️📷",
+    "id": "gl185"
+  },
+  "filter": {
+    "word": "filter",
+    "definition": "A material that lets only certain colours of light pass through.",
+    "variations": [
+      "filter",
+      "filters",
+      "filtered",
+      "filtering"
+    ],
+    "emoji": "🔴🟢🔵",
+    "id": "gl186"
+  },
+  "fine adjustment knob": {
+    "word": "fine adjustment knob",
+    "definition": "the knob used for small, careful focusing movements on a microscope",
+    "variations": [
+      "fine adjustment knob",
+      "fine adjustment knobs"
+    ],
+    "emoji": "⚙️🎯",
+    "id": "gl187"
+  },
+  "fixed capacitor": {
+    "word": "fixed capacitor",
+    "definition": "a capacitor whose capacitance cannot be changed",
+    "variations": [
+      "fixed capacitor",
+      "fixed capacitors"
+    ],
+    "emoji": "📌⚡",
+    "id": "gl188"
+  },
+  "fixed resistor": {
+    "word": "fixed resistor",
+    "definition": "a resistor with a resistance value that does not change",
+    "variations": [
+      "fixed resistor",
+      "fixed resistors"
+    ],
+    "emoji": "🛠️⚡",
+    "id": "gl189"
+  },
+  "focal length": {
+    "word": "focal length",
+    "definition": "The distance between the center of a lens and its focal point.",
+    "variations": [
+      "focal length",
+      "focal lengths"
+    ],
+    "emoji": "📏🔍",
+    "id": "gl190"
+  },
+  "focal plane": {
+    "word": "focal plane",
+    "definition": "the area in a camera where light is brought into focus",
+    "variations": [
+      "focal plane",
+      "focal planes"
+    ],
+    "emoji": "📷🔦",
+    "id": "gl191"
+  },
+  "focal point": {
+    "word": "focal point",
+    "definition": "The point where light rays meet, or seem to come from, after passing through a lens.",
+    "variations": [
+      "focal point",
+      "focal points"
+    ],
+    "emoji": "🎯🔦",
+    "id": "gl192"
+  },
+  "focus": {
+    "word": "focus",
+    "definition": "the point where light rays meet after passing through a lens or mirror",
+    "variations": [
+      "focus",
+      "focuses",
+      "focused",
+      "focusing"
+    ],
+    "emoji": "🎯💡",
+    "id": "gl193"
+  },
+  "friction": {
+    "word": "friction",
+    "definition": "a force that happens when two surfaces rub against each other",
+    "variations": [
+      "friction",
+      "frictions"
+    ],
+    "emoji": "🖐️↔️",
+    "id": "gl194"
+  },
+  "fuse": {
+    "word": "fuse",
+    "definition": "a safety device with a thin wire that melts and breaks the circuit when too much current flows",
+    "variations": [
+      "fuse",
+      "fuses",
+      "fuse wire",
+      "fuse wires"
+    ],
+    "emoji": "🧯⚡",
+    "id": "gl195"
+  },
+  "galvanometer": {
+    "word": "galvanometer",
+    "definition": "a sensitive instrument that detects small electric currents",
+    "variations": [
+      "galvanometer",
+      "galvanometers"
+    ],
+    "emoji": "🧭⚡",
+    "id": "gl196"
+  },
+  "geographic pole": {
+    "word": "geographic pole",
+    "definition": "The north or south point of the Earth defined by its axis of rotation.",
+    "variations": [
+      "geographic pole",
+      "geographic poles"
+    ],
+    "emoji": "🌍📍",
+    "id": "gl197"
+  },
+  "gradient": {
+    "word": "gradient",
+    "definition": "the steepness or slope of a graph",
+    "variations": [
+      "gradients"
+    ],
+    "emoji": "📈📏",
+    "id": "gl198"
+  },
+  "grounding": {
+    "word": "grounding",
+    "definition": "the process of removing charge by connecting an object to the Earth",
+    "variations": [
+      "grounding",
+      "grounded",
+      "ground"
+    ],
+    "emoji": "🌍⚡",
+    "id": "gl199"
+  },
+  "heating effect": {
+    "word": "heating effect",
+    "definition": "The production of heat when electric current flows through a conductor.",
+    "variations": [
+      "heating effect",
+      "heating effects"
+    ],
+    "emoji": "🔥⚡",
+    "id": "gl200"
+  },
+  "hemisphere": {
+    "word": "hemisphere",
+    "definition": "One half of the Earth, usually the northern or southern half.",
+    "variations": [
+      "hemisphere",
+      "hemispheres",
+      "Northern Hemisphere",
+      "Southern Hemisphere"
+    ],
+    "emoji": "🌍半",
+    "id": "gl201"
+  },
+  "horizontal component": {
+    "word": "horizontal component",
+    "definition": "The part of a force or field that acts in a flat, level direction.",
+    "variations": [
+      "horizontal component",
+      "horizontal components"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl202"
+  },
+  "horseshoe magnet": {
+    "word": "horseshoe magnet",
+    "definition": "A magnet bent into a U-shape, with its poles close together.",
+    "variations": [
+      "horseshoe magnet",
+      "horseshoe magnets"
+    ],
+    "emoji": "🧲🧲",
+    "id": "gl203"
+  },
+  "human eye": {
+    "word": "human eye",
+    "definition": "the body organ used for seeing",
+    "variations": [
+      "human eye",
+      "human eyes",
+      "eye",
+      "eyes"
+    ],
+    "emoji": "👁️🧠",
+    "id": "gl204"
+  },
+  "hyperopia": {
+    "word": "hyperopia",
+    "definition": "A defect of vision in which nearby objects appear blurry because the image forms behind the retina. It is also called far-sightedness.",
+    "variations": [
+      "hyperopia"
+    ],
+    "emoji": "👁️📘",
+    "id": "gl205"
+  },
+  "illumination": {
+    "word": "illumination",
+    "definition": "the lighting used to make an object easy to see",
+    "variations": [
+      "illumination"
+    ],
+    "emoji": "💡🔦",
+    "id": "gl206"
+  },
+  "illusion": {
+    "word": "illusion",
+    "definition": "something that seems real but is not actually there in the way it appears",
+    "variations": [
+      "illusion",
+      "illusions"
+    ],
+    "emoji": "👀✨",
+    "id": "gl207"
+  },
+  "image": {
+    "word": "image",
+    "definition": "the picture of an object formed by reflected or refracted light",
+    "variations": [
+      "image",
+      "images"
+    ],
+    "emoji": "🪞🖼️",
+    "id": "gl208"
+  },
+  "image distance": {
+    "word": "image distance",
+    "definition": "The distance between the image and the lens.",
+    "variations": [
+      "image distance",
+      "image distances"
+    ],
+    "emoji": "📏🖼️",
+    "id": "gl209"
+  },
+  "image height": {
+    "word": "image height",
+    "definition": "the height of the image formed by the mirror",
+    "variations": [
+      "image height",
+      "image heights"
+    ],
+    "emoji": "📐🖼️",
+    "id": "gl210"
+  },
+  "imbalance": {
+    "word": "imbalance",
+    "definition": "a condition in which positive and negative charges are not equal",
+    "variations": [
+      "imbalance",
+      "imbalances"
+    ],
+    "emoji": "⚖️➕➖",
+    "id": "gl211"
+  },
+  "immiscible": {
+    "word": "immiscible",
+    "definition": "unable to mix together to form one liquid",
+    "variations": [
+      "immiscible"
+    ],
+    "emoji": "🧪💧",
+    "id": "gl212"
+  },
+  "incident ray": {
+    "word": "incident ray",
+    "definition": "the ray of light that strikes a surface or boundary first",
+    "variations": [
+      "incident ray",
+      "incident rays"
+    ],
+    "emoji": "💡➡️",
+    "id": "gl213"
+  },
+  "induced magnetism": {
+    "word": "induced magnetism",
+    "definition": "Magnetism that appears in a material because of the presence of a nearby magnet.",
+    "variations": [
+      "induced magnetism"
+    ],
+    "emoji": "🧲⚡",
+    "id": "gl214"
+  },
+  "induction": {
+    "word": "induction",
+    "definition": "a method of charging an object without touching it directly, by bringing a charged object near it",
+    "variations": [
+      "induction",
+      "induced",
+      "induce",
+      "induces"
+    ],
+    "emoji": "⚡🧲",
+    "id": "gl215"
+  },
+  "infinity": {
+    "word": "infinity",
+    "definition": "a very great distance with no end; in optics, a point extremely far away",
+    "variations": [
+      "infinity"
+    ],
+    "emoji": "♾️🌌",
+    "id": "gl216"
+  },
+  "insulated": {
+    "word": "insulated",
+    "definition": "covered or protected with a material that does not let electricity pass through easily",
+    "variations": [
+      "insulated",
+      "insulation"
+    ],
+    "emoji": "🧤⚡",
+    "id": "gl217"
+  },
+  "insulation": {
+    "word": "insulation",
+    "definition": "material or protection that stops electric charge from flowing easily",
+    "variations": [
+      "insulations",
+      "insulate",
+      "insulated",
+      "insulating"
+    ],
+    "emoji": "🛡️⚡",
+    "id": "gl218"
+  },
+  "insulator": {
+    "word": "insulator",
+    "definition": "a material that does not allow electric charge to move easily through it",
+    "variations": [
+      "insulator",
+      "insulators"
+    ],
+    "emoji": "🧤🚫⚡",
+    "id": "gl219"
+  },
+  "intensity": {
+    "word": "intensity",
+    "definition": "The strength or brightness of light.",
+    "variations": [
+      "intensity",
+      "intensities"
+    ],
+    "emoji": "💡✨",
+    "id": "gl220"
+  },
+  "interface": {
+    "word": "interface",
+    "definition": "the boundary where two different materials meet",
+    "variations": [
+      "interface",
+      "interfaces"
+    ],
+    "emoji": "↔️📍",
+    "id": "gl221"
+  },
+  "internal resistance": {
+    "word": "internal resistance",
+    "definition": "The resistance inside a cell or battery that reduces the voltage available in the circuit.",
+    "variations": [
+      "internal resistance"
+    ],
+    "emoji": "🔋🧱",
+    "id": "gl222"
+  },
+  "inverted": {
+    "word": "inverted",
+    "definition": "Describes an image that is turned upside down compared with the object.",
+    "variations": [
+      "inverted"
+    ],
+    "emoji": "🙃🖼️",
+    "id": "gl223"
+  },
+  "ion": {
+    "word": "ion",
+    "definition": "an atom or group of atoms that has gained or lost electrons and now has a charge",
+    "variations": [
+      "ion",
+      "ions"
+    ],
+    "emoji": "⚛️⚡",
+    "id": "gl224"
+  },
+  "ionisation": {
+    "word": "ionisation",
+    "definition": "the process in which atoms or molecules gain or lose electrons and become charged",
+    "variations": [
+      "ionise",
+      "ionised",
+      "ionising"
+    ],
+    "emoji": "⚛️⚡",
+    "id": "gl225"
+  },
+  "iris": {
+    "word": "iris",
+    "definition": "the colored part of the eye that controls the size of the pupil",
+    "variations": [
+      "iris",
+      "irises"
+    ],
+    "emoji": "👁️🎨",
+    "id": "gl226"
+  },
+  "iris-type diaphragm": {
+    "word": "iris-type diaphragm",
+    "definition": "a camera diaphragm made of thin blades that change the size of the opening",
+    "variations": [
+      "iris-type diaphragm",
+      "iris-type diaphragms"
+    ],
+    "emoji": "📷🌸",
+    "id": "gl227"
+  },
+  "iron filings": {
+    "word": "iron filings",
+    "definition": "Very small pieces of iron used to show magnetic effects or the shape of a magnetic field.",
+    "variations": [
+      "iron filing",
+      "iron filings"
+    ],
+    "emoji": "🔩🧲",
+    "id": "gl228"
+  },
+  "isolated system": {
+    "word": "isolated system",
+    "definition": "a system that does not exchange matter or energy with its surroundings",
+    "variations": [
+      "isolated system",
+      "isolated systems"
+    ],
+    "emoji": "🔒📦",
+    "id": "gl229"
+  },
+  "jockey": {
+    "word": "jockey",
+    "definition": "a sliding contact used on a metre bridge or potentiometer wire to find a balance point",
+    "variations": [
+      "jockey",
+      "jockeys"
+    ],
+    "emoji": "👉📏",
+    "id": "gl230"
+  },
+  "joule": {
+    "word": "joule",
+    "definition": "The SI unit of energy or work.",
+    "variations": [
+      "joule",
+      "joules"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl231"
+  },
+  "Joule’s law of heating": {
+    "word": "Joule’s law of heating",
+    "definition": "The law stating that the heat produced in a conductor depends on the square of the current, the resistance, and the time.",
+    "variations": [
+      "Joule’s law of heating"
+    ],
+    "emoji": "🔥⚡📘",
+    "id": "gl232"
+  },
+  "junction": {
+    "word": "junction",
+    "definition": "A point in a circuit where current can split or join.",
+    "variations": [
+      "junction",
+      "junctions"
+    ],
+    "emoji": "🔀⚡",
+    "id": "gl233"
+  },
+  "junction box": {
+    "word": "junction box",
+    "definition": "a box where electrical wires are joined or connected safely",
+    "variations": [
+      "junction box",
+      "junction boxes"
+    ],
+    "emoji": "📦🔌",
+    "id": "gl234"
+  },
+  "kilowatt-hour": {
+    "word": "kilowatt-hour",
+    "definition": "A unit of electrical energy equal to the energy used by a 1 kilowatt appliance in 1 hour.",
+    "variations": [
+      "kilowatt-hour",
+      "kilowatt-hours",
+      "kWh"
+    ],
+    "emoji": "⚡⏳",
+    "id": "gl235"
+  },
+  "laboratory": {
+    "word": "laboratory",
+    "definition": "a room or building used for scientific experiments and study",
+    "variations": [
+      "laboratory",
+      "laboratories"
+    ],
+    "emoji": "🧪🏫",
+    "id": "gl236"
+  },
+  "lateral inversion": {
+    "word": "lateral inversion",
+    "definition": "the sideways reversal seen in a mirror, where left and right appear switched",
+    "variations": [
+      "lateral inversion"
+    ],
+    "emoji": "↔️🪞",
+    "id": "gl237"
+  },
+  "lateral magnification": {
+    "word": "lateral magnification",
+    "definition": "magnification based on how much larger the image size is compared to the object size",
+    "variations": [
+      "lateral magnification"
+    ],
+    "emoji": "↔️🔍",
+    "id": "gl238"
+  },
+  "law of polarity": {
+    "word": "law of polarity",
+    "definition": "The rule that like poles repel and unlike poles attract.",
+    "variations": [
+      "law of polarity"
+    ],
+    "emoji": "🧲↔️",
+    "id": "gl239"
+  },
+  "laws of refraction": {
+    "word": "laws of refraction",
+    "definition": "rules that describe how light bends when it moves from one material to another",
+    "variations": [
+      "law of refraction",
+      "laws of refraction"
+    ],
+    "emoji": "📘💡",
+    "id": "gl240"
+  },
+  "lead sulphate": {
+    "word": "lead sulphate",
+    "definition": "a compound formed on the plates of a lead-acid battery during discharge",
+    "variations": [
+      "lead sulphate"
+    ],
+    "emoji": "🧪🔋",
+    "id": "gl241"
+  },
+  "lead-acid battery": {
+    "word": "lead-acid battery",
+    "definition": "a rechargeable battery that uses lead plates and sulphuric acid",
+    "variations": [
+      "lead-acid battery",
+      "lead-acid batteries",
+      "lead-acid cell",
+      "lead-acid cells"
+    ],
+    "emoji": "🔋🚗",
+    "id": "gl242"
+  },
+  "leaf electroscope": {
+    "word": "leaf electroscope",
+    "definition": "a type of electroscope with a thin metal leaf that moves when charge is present",
+    "variations": [
+      "leaf electroscope",
+      "leaf electroscopes"
+    ],
+    "emoji": "🍃⚡",
+    "id": "gl243"
+  },
+  "leakage": {
+    "word": "leakage",
+    "definition": "the slow loss of electric charge from a device when it should be kept stored",
+    "variations": [
+      "leakages",
+      "leak"
+    ],
+    "emoji": "💧⚡",
+    "id": "gl244"
+  },
+  "lens": {
+    "word": "lens",
+    "definition": "A transparent object that bends light to form an image.",
+    "variations": [
+      "lens",
+      "lenses"
+    ],
+    "emoji": "🔍💡",
+    "id": "gl245"
+  },
+  "lens camera": {
+    "word": "lens camera",
+    "definition": "a camera that uses a lens to focus light and form an image",
+    "variations": [
+      "lens camera",
+      "lens cameras"
+    ],
+    "emoji": "📷🔍",
+    "id": "gl246"
+  },
+  "lens formula": {
+    "word": "lens formula",
+    "definition": "A rule that relates focal length, object distance, and image distance for a lens.",
+    "variations": [
+      "lens formula",
+      "lens formulas"
+    ],
+    "emoji": "🧮🔍",
+    "id": "gl247"
+  },
+  "lens power": {
+    "word": "lens power",
+    "definition": "a measure of how strongly a lens bends light",
+    "variations": [
+      "lens power",
+      "lens powers",
+      "power"
+    ],
+    "emoji": "🔍⚡",
+    "id": "gl248"
+  },
+  "light": {
+    "word": "light",
+    "definition": "A form of energy that we can see and that helps us see objects.",
+    "variations": [
+      "light",
+      "lights"
+    ],
+    "emoji": "💡👀",
+    "id": "gl249"
+  },
+  "light ray": {
+    "word": "light ray",
+    "definition": "A line used to show the direction in which light travels.",
+    "variations": [
+      "light ray",
+      "light rays",
+      "ray",
+      "rays"
+    ],
+    "emoji": "✨➡️",
+    "id": "gl250"
+  },
+  "light rays": {
+    "word": "light rays",
+    "definition": "straight paths along which light travels",
+    "variations": [
+      "light ray",
+      "light rays"
+    ],
+    "emoji": "💡➡️",
+    "id": "gl251"
+  },
+  "light-gathering power": {
+    "word": "light-gathering power",
+    "definition": "the ability of a lens or telescope to collect light and make images brighter",
+    "variations": [
+      "light-gathering power"
+    ],
+    "emoji": "💡🪣",
+    "id": "gl252"
+  },
+  "lighting circuit": {
+    "word": "lighting circuit",
+    "definition": "a circuit in a house that supplies electricity to lamps and other light fittings",
+    "variations": [
+      "lighting circuit",
+      "lighting circuits"
+    ],
+    "emoji": "💡🏠",
+    "id": "gl253"
+  },
+  "lightning": {
+    "word": "lightning",
+    "definition": "a large sudden discharge of electric charge in the atmosphere",
+    "variations": [
+      "lightning"
+    ],
+    "emoji": "⚡☁️",
+    "id": "gl254"
+  },
+  "lightning conductor": {
+    "word": "lightning conductor",
+    "definition": "a metal rod and wire system that safely carries lightning current to the ground",
+    "variations": [
+      "lightning conductors",
+      "lightning rod",
+      "lightning rods"
+    ],
+    "emoji": "⚡🏠🛡️",
+    "id": "gl255"
+  },
+  "linear magnification": {
+    "word": "linear magnification",
+    "definition": "The ratio of image height to object height.",
+    "variations": [
+      "linear magnification"
+    ],
+    "emoji": "📏🔍",
+    "id": "gl256"
+  },
+  "live cable": {
+    "word": "live cable",
+    "definition": "the wire that carries electric current from the power supply",
+    "variations": [
+      "live cable",
+      "live cables"
+    ],
+    "emoji": "🔌⚡",
+    "id": "gl257"
+  },
+  "live wire": {
+    "word": "live wire",
+    "definition": "The wire that carries current from the supply and is at high potential.",
+    "variations": [
+      "live wire",
+      "live wires",
+      "live cable",
+      "live cables"
+    ],
+    "emoji": "🟤⚡",
+    "id": "gl258"
+  },
+  "local action": {
+    "word": "local action",
+    "definition": "wasting of a cell caused by impurities in an electrode that make small unwanted currents inside the cell",
+    "variations": [
+      "local action"
+    ],
+    "emoji": "🔋⚠️",
+    "id": "gl259"
+  },
+  "lodestone": {
+    "word": "lodestone",
+    "definition": "a naturally magnetised piece of magnetite",
+    "variations": [
+      "lodestone",
+      "lodestones"
+    ],
+    "emoji": "🪨🧲",
+    "id": "gl260"
+  },
+  "loop-in circuit": {
+    "word": "loop-in circuit",
+    "definition": "a lighting circuit in which wires run from one ceiling rose to the next in sequence",
+    "variations": [
+      "loop-in circuit",
+      "loop-in circuits"
+    ],
+    "emoji": "🔁💡",
+    "id": "gl261"
+  },
+  "luminous": {
+    "word": "luminous",
+    "definition": "able to produce its own light",
+    "variations": [
+      "luminous"
+    ],
+    "emoji": "💡✨",
+    "id": "gl262"
+  },
+  "magnet": {
+    "word": "magnet",
+    "definition": "An object that can attract some materials such as iron and can push away or pull other magnets.",
+    "variations": [
+      "magnet",
+      "magnets"
+    ],
+    "emoji": "🧲",
+    "id": "gl263"
+  },
+  "magnetic": {
+    "word": "magnetic",
+    "definition": "Able to be attracted by a magnet or able to act like a magnet.",
+    "variations": [
+      "magnetic"
+    ],
+    "emoji": "🧲",
+    "id": "gl264"
+  },
+  "magnetic domain": {
+    "word": "magnetic domain",
+    "definition": "A small region inside a material where many atomic magnets point in the same direction.",
+    "variations": [
+      "magnetic domain",
+      "magnetic domains"
+    ],
+    "emoji": "🧲🔹",
+    "id": "gl265"
+  },
+  "magnetic field": {
+    "word": "magnetic field",
+    "definition": "the area around a magnet where magnetic forces can be felt",
+    "variations": [
+      "magnetic field",
+      "magnetic fields"
+    ],
+    "emoji": "🧲🌐",
+    "id": "gl266"
+  },
+  "magnetic field strength": {
+    "word": "magnetic field strength",
+    "definition": "How strong a magnetic field is at a certain place.",
+    "variations": [
+      "magnetic field strength",
+      "field strength"
+    ],
+    "emoji": "🧲💪",
+    "id": "gl267"
+  },
+  "magnetic force": {
+    "word": "magnetic force",
+    "definition": "the force by which magnets attract or repel each other",
+    "variations": [
+      "magnetic force",
+      "magnetic forces"
+    ],
+    "emoji": "🧲↔️",
+    "id": "gl268"
+  },
+  "magnetic ink": {
+    "word": "magnetic ink",
+    "definition": "ink containing magnetic material that can be detected by machines",
+    "variations": [
+      "magnetic ink"
+    ],
+    "emoji": "🖋️🧲",
+    "id": "gl269"
+  },
+  "magnetic keeper": {
+    "word": "magnetic keeper",
+    "definition": "a piece of soft iron placed across the poles of a magnet to help it keep its strength",
+    "variations": [
+      "magnetic keeper",
+      "magnetic keepers",
+      "keeper",
+      "keepers"
+    ],
+    "emoji": "🧲🔒",
+    "id": "gl270"
+  },
+  "magnetic lines": {
+    "word": "magnetic lines",
+    "definition": "imaginary lines used to show the direction and shape of a magnetic field",
+    "variations": [
+      "magnetic line",
+      "magnetic lines"
+    ],
+    "emoji": "🧲〰️",
+    "id": "gl271"
+  },
+  "magnetic lines of force": {
+    "word": "magnetic lines of force",
+    "definition": "imaginary lines that show the direction and strength of a magnetic field",
+    "variations": [
+      "magnetic line of force",
+      "magnetic lines of force"
+    ],
+    "emoji": "🧲〰️",
+    "id": "gl272"
+  },
+  "magnetic meridian": {
+    "word": "magnetic meridian",
+    "definition": "the vertical plane along the north-south direction in which a freely suspended magnet settles",
+    "variations": [
+      "magnetic meridian",
+      "magnetic meridians"
+    ],
+    "emoji": "🧭📍",
+    "id": "gl273"
+  },
+  "magnetic pole": {
+    "word": "magnetic pole",
+    "definition": "A place on the Earth or a magnet where magnetic effects are strongest.",
+    "variations": [
+      "magnetic pole",
+      "magnetic poles"
+    ],
+    "emoji": "🧲📍",
+    "id": "gl274"
+  },
+  "magnetic poles": {
+    "word": "magnetic poles",
+    "definition": "the two ends of a magnet where the magnetic force is strongest",
+    "variations": [
+      "magnetic pole",
+      "magnetic poles",
+      "pole",
+      "poles"
+    ],
+    "emoji": "🧲📍",
+    "id": "gl275"
+  },
+  "magnetic properties": {
+    "word": "magnetic properties",
+    "definition": "the ways a material behaves in a magnetic field, such as being attracted or becoming magnetised",
+    "variations": [
+      "magnetic property",
+      "magnetic properties"
+    ],
+    "emoji": "🧲🔍",
+    "id": "gl276"
+  },
+  "magnetic shielding": {
+    "word": "magnetic shielding",
+    "definition": "the process of reducing the effect of a magnetic field in a certain area",
+    "variations": [
+      "magnetic shielding"
+    ],
+    "emoji": "🧲🛡️",
+    "id": "gl277"
+  },
+  "magnetically hard": {
+    "word": "magnetically hard",
+    "definition": "Describes a material that does not lose its magnetism easily once it has been magnetised.",
+    "variations": [
+      "magnetically hard"
+    ],
+    "emoji": "🧲🪨",
+    "id": "gl278"
+  },
+  "magnetisation": {
+    "word": "magnetisation",
+    "definition": "the process of making a material become a magnet by lining up its tiny magnetic parts",
+    "variations": [
+      "magnetisation",
+      "magnetise",
+      "magnetised",
+      "magnetising"
+    ],
+    "emoji": "🧲✨",
+    "id": "gl279"
+  },
+  "magnetise": {
+    "word": "magnetise",
+    "definition": "To make a material become a magnet.",
+    "variations": [
+      "magnetise",
+      "magnetised",
+      "magnetising",
+      "magnetisation"
+    ],
+    "emoji": "🧲🔄",
+    "id": "gl280"
+  },
+  "magnetised": {
+    "word": "magnetised",
+    "definition": "made into a magnet or given magnetic properties",
+    "variations": [
+      "magnetised",
+      "magnetize",
+      "magnetized",
+      "magnetising",
+      "magnetizing"
+    ],
+    "emoji": "🧲✨",
+    "id": "gl281"
+  },
+  "magnetism": {
+    "word": "magnetism",
+    "definition": "the force or effect produced by magnets",
+    "variations": [
+      "magnetism",
+      "magnetic"
+    ],
+    "emoji": "🧲🌍",
+    "id": "gl282"
+  },
+  "magnetite": {
+    "word": "magnetite",
+    "definition": "a natural mineral that has magnetic properties",
+    "variations": [
+      "magnetite"
+    ],
+    "emoji": "🪨🧲",
+    "id": "gl283"
+  },
+  "magnetostatic field": {
+    "word": "magnetostatic field",
+    "definition": "a magnetic field that does not change with time",
+    "variations": [
+      "magnetostatic field",
+      "magnetostatic fields"
+    ],
+    "emoji": "🧲⏸️",
+    "id": "gl284"
+  },
+  "magnification": {
+    "word": "magnification",
+    "definition": "The number that shows how much larger or smaller an image is compared to the object.",
+    "variations": [
+      "magnification",
+      "magnifications"
+    ],
+    "emoji": "🔎📈",
+    "id": "gl285"
+  },
+  "magnified": {
+    "word": "magnified",
+    "definition": "Made to appear larger than the actual object.",
+    "variations": [
+      "magnified"
+    ],
+    "emoji": "🔍📈",
+    "id": "gl286"
+  },
+  "magnifier": {
+    "word": "magnifier",
+    "definition": "A device or lens that makes an object appear larger.",
+    "variations": [
+      "magnifier",
+      "magnifiers"
+    ],
+    "emoji": "🔎👀",
+    "id": "gl287"
+  },
+  "magnify": {
+    "word": "magnify",
+    "definition": "to make something appear larger than it really is",
+    "variations": [
+      "magnify",
+      "magnifies",
+      "magnified",
+      "magnifying"
+    ],
+    "emoji": "🔎👀",
+    "id": "gl288"
+  },
+  "magnifying glass": {
+    "word": "magnifying glass",
+    "definition": "A hand-held convex lens used to make small things look larger.",
+    "variations": [
+      "magnifying glass",
+      "magnifying glasses"
+    ],
+    "emoji": "🔍",
+    "id": "gl289"
+  },
+  "magnifying power": {
+    "word": "magnifying power",
+    "definition": "The ability of an optical instrument to make an object appear bigger to the eye.",
+    "variations": [
+      "magnifying power"
+    ],
+    "emoji": "🔬👀",
+    "id": "gl290"
+  },
+  "magnitude": {
+    "word": "magnitude",
+    "definition": "The size or amount of something, such as the strength of a magnetic field.",
+    "variations": [
+      "magnitude",
+      "magnitudes"
+    ],
+    "emoji": "📏",
+    "id": "gl291"
+  },
+  "manganin": {
+    "word": "manganin",
+    "definition": "an alloy that has very small change in resistance with temperature",
+    "variations": [
+      "manganin"
+    ],
+    "emoji": "🧪⚙️",
+    "id": "gl292"
+  },
+  "medium": {
+    "word": "medium",
+    "definition": "a material through which light travels, such as air, water, or glass",
+    "variations": [
+      "medium",
+      "media"
+    ],
+    "emoji": "🌫️💧🪟",
+    "id": "gl293"
+  },
+  "metre bridge": {
+    "word": "metre bridge",
+    "definition": "a slide wire bridge that uses a one-metre wire to measure unknown resistance",
+    "variations": [
+      "metre bridge",
+      "metre bridges",
+      "meter bridge",
+      "meter bridges"
+    ],
+    "emoji": "📏⚡",
+    "id": "gl294"
+  },
+  "micrometer screw gauge": {
+    "word": "micrometer screw gauge",
+    "definition": "a tool used to measure very small thicknesses or diameters accurately",
+    "variations": [
+      "micrometer screw gauge",
+      "micrometer screw gauges"
+    ],
+    "emoji": "📏🔧",
+    "id": "gl295"
+  },
+  "microorganism": {
+    "word": "microorganism",
+    "definition": "a very tiny living thing that can only be seen clearly with a microscope",
+    "variations": [
+      "microorganism",
+      "microorganisms"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl296"
+  },
+  "microscope": {
+    "word": "microscope",
+    "definition": "An instrument used to see very small objects more clearly and in greater detail.",
+    "variations": [
+      "microscope",
+      "microscopes"
+    ],
+    "emoji": "🔬",
+    "id": "gl297"
+  },
+  "mirage": {
+    "word": "mirage",
+    "definition": "an illusion image formed when light bends through layers of air with different temperatures",
+    "variations": [
+      "mirage",
+      "mirages"
+    ],
+    "emoji": "🏜️👀",
+    "id": "gl298"
+  },
+  "mirror equation": {
+    "word": "mirror equation",
+    "definition": "a formula that relates object distance, image distance, and focal length",
+    "variations": [
+      "mirror equation",
+      "mirror equations"
+    ],
+    "emoji": "🪞➗",
+    "id": "gl299"
+  },
+  "monochromatic": {
+    "word": "monochromatic",
+    "definition": "having only one colour or one wavelength of light",
+    "variations": [
+      "monochromatic"
+    ],
+    "emoji": "💡🎨",
+    "id": "gl300"
+  },
+  "multimeter": {
+    "word": "multimeter",
+    "definition": "a tool used to measure electrical quantities such as voltage, current, and sometimes resistance",
+    "variations": [
+      "multimeter",
+      "multimeters"
+    ],
+    "emoji": "📟⚡",
+    "id": "gl301"
+  },
+  "myopia": {
+    "word": "myopia",
+    "definition": "A defect of vision in which far objects appear blurry because the image forms in front of the retina. It is also called near-sightedness.",
+    "variations": [
+      "myopia"
+    ],
+    "emoji": "👁️🌄",
+    "id": "gl302"
+  },
+  "near point": {
+    "word": "near point",
+    "definition": "The nearest distance from the eye at which an object can be seen clearly.",
+    "variations": [
+      "near point",
+      "near points"
+    ],
+    "emoji": "👁️📍",
+    "id": "gl303"
+  },
+  "negatively charged": {
+    "word": "negatively charged",
+    "definition": "having more negative charge than positive charge",
+    "variations": [
+      "negatively charged",
+      "negative charge",
+      "negatively charges"
+    ],
+    "emoji": "➖⚡",
+    "id": "gl304"
+  },
+  "neutral": {
+    "word": "neutral",
+    "definition": "having no overall electric charge because positive and negative charges are equal",
+    "variations": [
+      "neutral",
+      "neutrality"
+    ],
+    "emoji": "⚖️0️⃣",
+    "id": "gl305"
+  },
+  "neutral cable": {
+    "word": "neutral cable",
+    "definition": "the wire that carries current back from an appliance to the power supply",
+    "variations": [
+      "neutral cable",
+      "neutral cables"
+    ],
+    "emoji": "🔌↩️",
+    "id": "gl306"
+  },
+  "neutral point": {
+    "word": "neutral point",
+    "definition": "a point where magnetic fields cancel each other so the total magnetic field is zero",
+    "variations": [
+      "neutral point",
+      "neutral points"
+    ],
+    "emoji": "🧲0️⃣",
+    "id": "gl307"
+  },
+  "neutral wire": {
+    "word": "neutral wire",
+    "definition": "The wire that completes the circuit and is kept at or near zero potential.",
+    "variations": [
+      "neutral wire",
+      "neutral wires",
+      "neutral cable",
+      "neutral cables"
+    ],
+    "emoji": "🔵🔌",
+    "id": "gl308"
+  },
+  "neutron": {
+    "word": "neutron",
+    "definition": "a particle in the nucleus of an atom that has no electric charge",
+    "variations": [
+      "neutron",
+      "neutrons"
+    ],
+    "emoji": "⚪🔬",
+    "id": "gl309"
+  },
+  "new Cartesian convention": {
+    "word": "new Cartesian convention",
+    "definition": "a sign rule in optics where directions are measured from the mirror and signs depend on direction",
+    "variations": [
+      "new Cartesian convention"
+    ],
+    "emoji": "📐➡️",
+    "id": "gl310"
+  },
+  "non-luminous": {
+    "word": "non-luminous",
+    "definition": "not able to produce its own light; seen because it reflects light",
+    "variations": [
+      "non-luminous"
+    ],
+    "emoji": "🌙🪞",
+    "id": "gl311"
+  },
+  "non-magnetic": {
+    "word": "non-magnetic",
+    "definition": "Not affected by a magnet and not attracted to it.",
+    "variations": [
+      "non-magnetic"
+    ],
+    "emoji": "🚫🧲",
+    "id": "gl312"
+  },
+  "normal": {
+    "word": "normal",
+    "definition": "an imaginary line drawn at a right angle to a surface where light hits",
+    "variations": [
+      "normal",
+      "normal line",
+      "normal lines"
+    ],
+    "emoji": "📏⟂",
+    "id": "gl313"
+  },
+  "normal line": {
+    "word": "normal line",
+    "definition": "an imaginary line drawn at right angles to a surface at the point where light hits it",
+    "variations": [
+      "normal line",
+      "normal lines"
+    ],
+    "emoji": "📏⟂",
+    "id": "gl314"
+  },
+  "north pole": {
+    "word": "north pole",
+    "definition": "The end of a magnet that points north when the magnet is freely suspended.",
+    "variations": [
+      "north pole",
+      "north poles"
+    ],
+    "emoji": "🧭⬆️",
+    "id": "gl315"
+  },
+  "north-seeking pole": {
+    "word": "north-seeking pole",
+    "definition": "The pole of a magnet that points toward the north when it is free to turn.",
+    "variations": [
+      "north-seeking pole",
+      "north-seeking poles"
+    ],
+    "emoji": "🧭⬆️",
+    "id": "gl316"
+  },
+  "nucleus": {
+    "word": "nucleus",
+    "definition": "the central part of an atom that contains protons and neutrons",
+    "variations": [
+      "nucleus",
+      "nuclei"
+    ],
+    "emoji": "⚛️🎯",
+    "id": "gl317"
+  },
+  "object distance": {
+    "word": "object distance",
+    "definition": "The distance between the object and the lens.",
+    "variations": [
+      "object distance",
+      "object distances"
+    ],
+    "emoji": "📏↔️",
+    "id": "gl318"
+  },
+  "object height": {
+    "word": "object height",
+    "definition": "the height of the object being reflected",
+    "variations": [
+      "object height",
+      "object heights"
+    ],
+    "emoji": "📐🧍",
+    "id": "gl319"
+  },
+  "objective": {
+    "word": "objective",
+    "definition": "the main lens in a telescope or microscope that first collects light from the object",
+    "variations": [
+      "objective",
+      "objectives"
+    ],
+    "emoji": "🎯🔭",
+    "id": "gl320"
+  },
+  "objective lens": {
+    "word": "objective lens",
+    "definition": "the main lens at the front of an optical instrument that collects light and forms an image",
+    "variations": [
+      "objective lens",
+      "objective lenses"
+    ],
+    "emoji": "🔭🔍",
+    "id": "gl321"
+  },
+  "observer": {
+    "word": "observer",
+    "definition": "A person who watches or looks at something carefully.",
+    "variations": [
+      "observer",
+      "observers",
+      "observe",
+      "observed",
+      "observing",
+      "observation",
+      "observations"
+    ],
+    "emoji": "👀🧑‍🔬",
+    "id": "gl322"
+  },
+  "ocular": {
+    "word": "ocular",
+    "definition": "another name for the eyepiece of a microscope or telescope",
+    "variations": [
+      "ocular",
+      "oculars"
+    ],
+    "emoji": "👁️🔬",
+    "id": "gl323"
+  },
+  "ohm": {
+    "word": "ohm",
+    "definition": "the SI unit used to measure electrical resistance",
+    "variations": [
+      "ohm",
+      "ohms"
+    ],
+    "emoji": "📏Ω",
+    "id": "gl324"
+  },
+  "Ohm’s law": {
+    "word": "Ohm’s law",
+    "definition": "The rule that relates voltage, current, and resistance in a circuit.",
+    "variations": [
+      "Ohm’s law"
+    ],
+    "emoji": "📘⚡",
+    "id": "gl325"
+  },
+  "opaque": {
+    "word": "opaque",
+    "definition": "not allowing light to pass through",
+    "variations": [
+      "opaque"
+    ],
+    "emoji": "🧱🚫💡",
+    "id": "gl326"
+  },
+  "optic nerve": {
+    "word": "optic nerve",
+    "definition": "The nerve that carries signals from the retina to the brain.",
+    "variations": [
+      "optic nerve",
+      "optic nerves"
+    ],
+    "emoji": "👁️🧠⚡",
+    "id": "gl327"
+  },
+  "optical centre": {
+    "word": "optical centre",
+    "definition": "The point near the middle of a lens where a ray can pass through without changing direction much.",
+    "variations": [
+      "optical centre",
+      "optical centres"
+    ],
+    "emoji": "🎯🔍",
+    "id": "gl328"
+  },
+  "optical density": {
+    "word": "optical density",
+    "definition": "how much a material slows down light compared to another material",
+    "variations": [
+      "optical density",
+      "optical densities"
+    ],
+    "emoji": "💡🧱",
+    "id": "gl329"
+  },
+  "optical fibre": {
+    "word": "optical fibre",
+    "definition": "a very thin strand that carries light signals, often used in communication",
+    "variations": [
+      "optical fibre",
+      "optical fibres",
+      "optical fiber",
+      "optical fibers"
+    ],
+    "emoji": "💡📡",
+    "id": "gl330"
+  },
+  "optical instrument": {
+    "word": "optical instrument",
+    "definition": "a tool that uses lenses or mirrors to help see objects",
+    "variations": [
+      "optical instrument",
+      "optical instruments"
+    ],
+    "emoji": "🔭🛠️",
+    "id": "gl331"
+  },
+  "optical instruments": {
+    "word": "optical instruments",
+    "definition": "Tools that use light and parts like lenses or mirrors to help us see things better.",
+    "variations": [
+      "optical instrument",
+      "optical instruments"
+    ],
+    "emoji": "🔭🔬📷",
+    "id": "gl332"
+  },
+  "optical media": {
+    "word": "optical media",
+    "definition": "Materials through which light travels, such as air, water, or glass.",
+    "variations": [
+      "optical medium",
+      "optical media"
+    ],
+    "emoji": "🌫️💧🪟",
+    "id": "gl333"
+  },
+  "optics": {
+    "word": "optics",
+    "definition": "the study of light and how it behaves with lenses and mirrors",
+    "variations": [
+      "optics"
+    ],
+    "emoji": "💡🔎",
+    "id": "gl334"
+  },
+  "overheating": {
+    "word": "overheating",
+    "definition": "becoming too hot, which can damage a material or device",
+    "variations": [
+      "overheating",
+      "overheat",
+      "overheated"
+    ],
+    "emoji": "🔥⚠️",
+    "id": "gl335"
+  },
+  "parallax": {
+    "word": "parallax",
+    "definition": "the apparent change in position of an object when viewed from different places",
+    "variations": [
+      "parallax"
+    ],
+    "emoji": "👀↔️",
+    "id": "gl336"
+  },
+  "parallel": {
+    "word": "parallel",
+    "definition": "a way of connecting components in separate branches across the same two points",
+    "variations": [
+      "parallel"
+    ],
+    "emoji": "🔀🔌",
+    "id": "gl337"
+  },
+  "parallel beam": {
+    "word": "parallel beam",
+    "definition": "a group of light rays traveling side by side in the same direction",
+    "variations": [
+      "parallel beam",
+      "parallel beams"
+    ],
+    "emoji": "💡➡️",
+    "id": "gl338"
+  },
+  "parallel connection": {
+    "word": "parallel connection",
+    "definition": "A way of connecting components side by side so each one has the same voltage across it.",
+    "variations": [
+      "parallel connection",
+      "parallel configuration",
+      "in parallel"
+    ],
+    "emoji": "⚡↔️",
+    "id": "gl339"
+  },
+  "paramagnetic": {
+    "word": "paramagnetic",
+    "definition": "weakly attracted by a magnet and loses magnetism quickly when the magnetic field is removed",
+    "variations": [
+      "paramagnetic"
+    ],
+    "emoji": "🧲➖",
+    "id": "gl340"
+  },
+  "particle": {
+    "word": "particle",
+    "definition": "a very small piece of matter",
+    "variations": [
+      "particle",
+      "particles"
+    ],
+    "emoji": "⚛️🔹",
+    "id": "gl341"
+  },
+  "penumbra": {
+    "word": "penumbra",
+    "definition": "the lighter outer part of a shadow where light is only partly blocked",
+    "variations": [
+      "penumbra",
+      "penumbrae"
+    ],
+    "emoji": "🌘⬜",
+    "id": "gl342"
+  },
+  "permanent magnet": {
+    "word": "permanent magnet",
+    "definition": "A magnet that keeps its magnetism for a long time after the magnetic field is removed.",
+    "variations": [
+      "permanent magnet",
+      "permanent magnets"
+    ],
+    "emoji": "🧲📌",
+    "id": "gl343"
+  },
+  "permeable": {
+    "word": "permeable",
+    "definition": "able to let something pass through easily; in magnetism, able to let magnetic field lines pass through",
+    "variations": [
+      "permeable"
+    ],
+    "emoji": "↔️🧲",
+    "id": "gl344"
+  },
+  "permeable material": {
+    "word": "permeable material",
+    "definition": "A material that allows magnetic field lines to pass through it easily.",
+    "variations": [
+      "permeable material",
+      "permeable materials"
+    ],
+    "emoji": "🧲🧱",
+    "id": "gl345"
+  },
+  "phosphor": {
+    "word": "phosphor",
+    "definition": "A material in screens that gives off light when energized.",
+    "variations": [
+      "phosphor",
+      "phosphors"
+    ],
+    "emoji": "🖥️✨",
+    "id": "gl346"
+  },
+  "photoresistor": {
+    "word": "photoresistor",
+    "definition": "a resistor whose resistance changes with light",
+    "variations": [
+      "photoresistor",
+      "photoresistors"
+    ],
+    "emoji": "💡⚡",
+    "id": "gl347"
+  },
+  "photovoltaic": {
+    "word": "photovoltaic",
+    "definition": "relating to producing electricity directly from sunlight",
+    "variations": [
+      "photovoltaic",
+      "photovoltaics"
+    ],
+    "emoji": "☀️⚡",
+    "id": "gl348"
+  },
+  "pigment": {
+    "word": "pigment",
+    "definition": "A coloured substance in paint or ink that absorbs some colours of light and reflects others.",
+    "variations": [
+      "pigment",
+      "pigments"
+    ],
+    "emoji": "🎨🖌️",
+    "id": "gl349"
+  },
+  "pivot": {
+    "word": "pivot",
+    "definition": "A fixed point that allows something to turn or rotate.",
+    "variations": [
+      "pivot",
+      "pivots"
+    ],
+    "emoji": "🔄📍",
+    "id": "gl350"
+  },
+  "plane mirror": {
+    "word": "plane mirror",
+    "definition": "a flat mirror that reflects light to form an image",
+    "variations": [
+      "plane mirror",
+      "plane mirrors"
+    ],
+    "emoji": "🪞📐",
+    "id": "gl351"
+  },
+  "plate": {
+    "word": "plate",
+    "definition": "one of the two conducting parts of a capacitor where charge collects",
+    "variations": [
+      "plate",
+      "plates"
+    ],
+    "emoji": "🔩⚡",
+    "id": "gl352"
+  },
+  "polarity": {
+    "word": "polarity",
+    "definition": "the property of a magnet that gives it two opposite ends called north and south poles",
+    "variations": [
+      "polarity",
+      "polarities"
+    ],
+    "emoji": "🧲⬆️⬇️",
+    "id": "gl353"
+  },
+  "polarization": {
+    "word": "polarization",
+    "definition": "in a cell, a chemical reaction that forms hydrogen bubbles on an electrode and reduces the cell's performance",
+    "variations": [
+      "polarization",
+      "polarisation"
+    ],
+    "emoji": "🔋🫧",
+    "id": "gl354"
+  },
+  "pole": {
+    "word": "pole",
+    "definition": "the middle point on the surface of a spherical mirror",
+    "variations": [
+      "pole",
+      "poles"
+    ],
+    "emoji": "📍🪞",
+    "id": "gl355"
+  },
+  "polychromatic light": {
+    "word": "polychromatic light",
+    "definition": "light made up of many different wavelengths or colours",
+    "variations": [
+      "polychromatic light"
+    ],
+    "emoji": "🌈💡",
+    "id": "gl356"
+  },
+  "porro prism": {
+    "word": "porro prism",
+    "definition": "a type of prism used in binoculars to turn the image upright by bending light through angles",
+    "variations": [
+      "porro prism",
+      "porro prisms"
+    ],
+    "emoji": "🔺🔄",
+    "id": "gl357"
+  },
+  "positively charged": {
+    "word": "positively charged",
+    "definition": "having more positive charge than negative charge",
+    "variations": [
+      "positively charged",
+      "positive charge",
+      "positively charges"
+    ],
+    "emoji": "➕⚡",
+    "id": "gl358"
+  },
+  "potential": {
+    "word": "potential",
+    "definition": "the electric energy per unit charge at a point",
+    "variations": [
+      "potential",
+      "potentials"
+    ],
+    "emoji": "⚡📍",
+    "id": "gl359"
+  },
+  "potential difference": {
+    "word": "potential difference",
+    "definition": "The difference in electric potential between two points that pushes charge through a circuit.",
+    "variations": [
+      "potential difference",
+      "p.d.",
+      "voltage"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl360"
+  },
+  "potentiometer": {
+    "word": "potentiometer",
+    "definition": "a variable resistor often used to adjust voltage",
+    "variations": [
+      "potentiometer",
+      "potentiometers"
+    ],
+    "emoji": "🎛️⚡",
+    "id": "gl361"
+  },
+  "power": {
+    "word": "power",
+    "definition": "A measure of how strongly a lens bends light. It is usually measured in dioptres (D).",
+    "variations": [
+      "power",
+      "powers"
+    ],
+    "emoji": "🔍📐",
+    "id": "gl362"
+  },
+  "power rating": {
+    "word": "power rating",
+    "definition": "The amount of power an appliance is designed to use or transfer under normal conditions.",
+    "variations": [
+      "power rating",
+      "power ratings"
+    ],
+    "emoji": "🏷️⚡",
+    "id": "gl363"
+  },
+  "presbyopia": {
+    "word": "presbyopia",
+    "definition": "A vision problem in older people in which the eye gradually loses the ability to focus on near objects.",
+    "variations": [
+      "presbyopia"
+    ],
+    "emoji": "👓👴",
+    "id": "gl364"
+  },
+  "primary cell": {
+    "word": "primary cell",
+    "definition": "a cell that produces electricity from chemical reactions and cannot be recharged for reuse",
+    "variations": [
+      "primary cell",
+      "primary cells"
+    ],
+    "emoji": "🔋1️⃣",
+    "id": "gl365"
+  },
+  "primary colours": {
+    "word": "primary colours",
+    "definition": "the basic light colours red, green, and blue that can combine to make other colours",
+    "variations": [
+      "primary colour",
+      "primary colours"
+    ],
+    "emoji": "🔴🟢🔵",
+    "id": "gl366"
+  },
+  "primary image": {
+    "word": "primary image",
+    "definition": "an image formed by a single reflection in one mirror",
+    "variations": [
+      "primary image",
+      "primary images"
+    ],
+    "emoji": "1️⃣🪞",
+    "id": "gl367"
+  },
+  "primary rainbow": {
+    "word": "primary rainbow",
+    "definition": "the brighter main rainbow formed by one internal reflection inside raindrops",
+    "variations": [
+      "primary rainbow",
+      "primary rainbows"
+    ],
+    "emoji": "🌈1️⃣",
+    "id": "gl368"
+  },
+  "principal axis": {
+    "word": "principal axis",
+    "definition": "The main straight line that passes through the centre of a lens and its focal points.",
+    "variations": [
+      "principal axis",
+      "principal axes"
+    ],
+    "emoji": "📏➡️",
+    "id": "gl369"
+  },
+  "principal focus": {
+    "word": "principal focus",
+    "definition": "The point on the principal axis where parallel rays meet, or seem to come from, after passing through a lens.",
+    "variations": [
+      "principal focus",
+      "principal focuses",
+      "principal foci"
+    ],
+    "emoji": "🎯💡",
+    "id": "gl370"
+  },
+  "prism": {
+    "word": "prism",
+    "definition": "a transparent solid shape, often made of glass, that can bend light",
+    "variations": [
+      "prism",
+      "prisms"
+    ],
+    "emoji": "🔺💎",
+    "id": "gl371"
+  },
+  "proof plane": {
+    "word": "proof plane",
+    "definition": "a small metal disc used to test for charge on a surface",
+    "variations": [
+      "proof plane",
+      "proof planes"
+    ],
+    "emoji": "🛠️⚡",
+    "id": "gl372"
+  },
+  "propagation": {
+    "word": "propagation",
+    "definition": "the movement or travel of light from one place to another",
+    "variations": [
+      "propagation"
+    ],
+    "emoji": "➡️💡",
+    "id": "gl373"
+  },
+  "proportional": {
+    "word": "proportional",
+    "definition": "Changing in a way that keeps a constant relationship between two quantities.",
+    "variations": [
+      "proportional"
+    ],
+    "emoji": "📈⚖️",
+    "id": "gl374"
+  },
+  "proton": {
+    "word": "proton",
+    "definition": "a very small particle in the nucleus of an atom that has a positive charge",
+    "variations": [
+      "proton",
+      "protons"
+    ],
+    "emoji": "➕🔬",
+    "id": "gl375"
+  },
+  "protractor": {
+    "word": "protractor",
+    "definition": "a tool used to measure angles",
+    "variations": [
+      "protractor",
+      "protractors"
+    ],
+    "emoji": "📐",
+    "id": "gl376"
+  },
+  "pupil": {
+    "word": "pupil",
+    "definition": "The opening in the center of the eye that controls how much light enters.",
+    "variations": [
+      "pupil",
+      "pupils"
+    ],
+    "emoji": "👁️⚫",
+    "id": "gl377"
+  },
+  "radius of curvature": {
+    "word": "radius of curvature",
+    "definition": "the distance from the mirror to the centre of curvature",
+    "variations": [
+      "radius of curvature",
+      "radii of curvature"
+    ],
+    "emoji": "📏⭕",
+    "id": "gl378"
+  },
+  "rainbow": {
+    "word": "rainbow",
+    "definition": "an arc of coloured light in the sky formed when sunlight is reflected, refracted, and dispersed by raindrops",
+    "variations": [
+      "rainbow",
+      "rainbows"
+    ],
+    "emoji": "🌈☀️🌧️",
+    "id": "gl379"
+  },
+  "ray": {
+    "word": "ray",
+    "definition": "a narrow path along which light travels",
+    "variations": [
+      "ray",
+      "rays"
+    ],
+    "emoji": "🔆➡️",
+    "id": "gl380"
+  },
+  "ray diagram": {
+    "word": "ray diagram",
+    "definition": "A drawing that shows how light rays travel and form images.",
+    "variations": [
+      "ray diagram",
+      "ray diagrams"
+    ],
+    "emoji": "📉💡",
+    "id": "gl381"
+  },
+  "real": {
+    "word": "real",
+    "definition": "In optics, describing a point where light rays actually meet.",
+    "variations": [
+      "real"
+    ],
+    "emoji": "✅💡",
+    "id": "gl382"
+  },
+  "real image": {
+    "word": "real image",
+    "definition": "an image formed by actual light rays meeting, which can be shown on a screen",
+    "variations": [
+      "real image",
+      "real images"
+    ],
+    "emoji": "🖼️🔦",
+    "id": "gl383"
+  },
+  "real-is-positive convention": {
+    "word": "real-is-positive convention",
+    "definition": "A sign rule in which distances of real objects and real images are taken as positive, while virtual ones are negative.",
+    "variations": [
+      "real-is-positive convention"
+    ],
+    "emoji": "➕📏",
+    "id": "gl384"
+  },
+  "reciprocal": {
+    "word": "reciprocal",
+    "definition": "A number found by dividing 1 by that number, such as 1/R.",
+    "variations": [
+      "reciprocal",
+      "reciprocals"
+    ],
+    "emoji": "🔢",
+    "id": "gl385"
+  },
+  "recombination": {
+    "word": "recombination",
+    "definition": "the joining together of separated colours to form white light again",
+    "variations": [
+      "recombination",
+      "recombine",
+      "recombined"
+    ],
+    "emoji": "🎨➡️⚪",
+    "id": "gl386"
+  },
+  "rectilinear propagation": {
+    "word": "rectilinear propagation",
+    "definition": "the idea that light travels in straight lines in a uniform medium",
+    "variations": [
+      "rectilinear propagation"
+    ],
+    "emoji": "📏➡️💡",
+    "id": "gl387"
+  },
+  "reflect": {
+    "word": "reflect",
+    "definition": "to send light back after it hits a surface",
+    "variations": [
+      "reflect",
+      "reflects",
+      "reflected",
+      "reflecting",
+      "reflection"
+    ],
+    "emoji": "🪞↩️",
+    "id": "gl388"
+  },
+  "reflected ray": {
+    "word": "reflected ray",
+    "definition": "the light ray that bounces off a surface",
+    "variations": [
+      "reflected ray",
+      "reflected rays"
+    ],
+    "emoji": "↗️🪞",
+    "id": "gl389"
+  },
+  "reflection": {
+    "word": "reflection",
+    "definition": "the bouncing back of light from a surface",
+    "variations": [
+      "reflection",
+      "reflections",
+      "reflect",
+      "reflected"
+    ],
+    "emoji": "💡↩️",
+    "id": "gl390"
+  },
+  "reflective surface": {
+    "word": "reflective surface",
+    "definition": "a surface that sends light back after it strikes it",
+    "variations": [
+      "reflective surface",
+      "reflective surfaces"
+    ],
+    "emoji": "✨🪞",
+    "id": "gl391"
+  },
+  "reflector": {
+    "word": "reflector",
+    "definition": "a device or surface that reflects light in a useful direction",
+    "variations": [
+      "reflector",
+      "reflectors"
+    ],
+    "emoji": "💡🔦",
+    "id": "gl392"
+  },
+  "refract": {
+    "word": "refract",
+    "definition": "To bend light as it passes from one material to another.",
+    "variations": [
+      "refract",
+      "refracted",
+      "refracts",
+      "refraction",
+      "refracting"
+    ],
+    "emoji": "💡↘️",
+    "id": "gl393"
+  },
+  "refracted ray": {
+    "word": "refracted ray",
+    "definition": "the ray of light after it has bent while entering a new material",
+    "variations": [
+      "refracted ray",
+      "refracted rays"
+    ],
+    "emoji": "💡↗️",
+    "id": "gl394"
+  },
+  "refracting telescope": {
+    "word": "refracting telescope",
+    "definition": "a telescope that uses lenses to bend light and form an image",
+    "variations": [
+      "refracting telescope",
+      "refracting telescopes"
+    ],
+    "emoji": "🔭💡",
+    "id": "gl395"
+  },
+  "refraction": {
+    "word": "refraction",
+    "definition": "the bending of light when it passes from one material to another because its speed changes",
+    "variations": [
+      "refraction",
+      "refractions",
+      "refract",
+      "refracts",
+      "refracted",
+      "refracting"
+    ],
+    "emoji": "💡↘️",
+    "id": "gl396"
+  },
+  "refractive index": {
+    "word": "refractive index",
+    "definition": "a number that shows how much a material slows down light or bends it",
+    "variations": [
+      "refractive index",
+      "refractive indices"
+    ],
+    "emoji": "🔢💡",
+    "id": "gl397"
+  },
+  "regelation": {
+    "word": "regelation",
+    "definition": "the process in which a substance melts under pressure and freezes again when the pressure is removed",
+    "variations": [
+      "regelation"
+    ],
+    "emoji": "🧊ضغط❄️",
+    "id": "gl398"
+  },
+  "regular reflection": {
+    "word": "regular reflection",
+    "definition": "reflection from a smooth surface where light rays remain orderly and form a clear image",
+    "variations": [
+      "regular reflection"
+    ],
+    "emoji": "🪞✨",
+    "id": "gl399"
+  },
+  "relative refractive index": {
+    "word": "relative refractive index",
+    "definition": "the refractive index found by comparing the speed of light in one material with its speed in another",
+    "variations": [
+      "relative refractive index",
+      "relative refractive indices"
+    ],
+    "emoji": "⚖️🔢",
+    "id": "gl400"
+  },
+  "repel": {
+    "word": "repel",
+    "definition": "to push away from each other",
+    "variations": [
+      "repel",
+      "repels",
+      "repelled",
+      "repulsion"
+    ],
+    "emoji": "↔️⚡",
+    "id": "gl401"
+  },
+  "resistance": {
+    "word": "resistance",
+    "definition": "The opposition a material or component gives to the flow of electric current.",
+    "variations": [
+      "resistance",
+      "resistances"
+    ],
+    "emoji": "🧱⚡",
+    "id": "gl402"
+  },
+  "resistivity": {
+    "word": "resistivity",
+    "definition": "A property of a material that shows how strongly it resists the flow of electric current.",
+    "variations": [
+      "resistivity",
+      "resistivities"
+    ],
+    "emoji": "🧪⚡",
+    "id": "gl403"
+  },
+  "resistor": {
+    "word": "resistor",
+    "definition": "A component in an electric circuit that opposes the flow of current.",
+    "variations": [
+      "resistor",
+      "resistors"
+    ],
+    "emoji": "🔌⚡",
+    "id": "gl404"
+  },
+  "resolution": {
+    "word": "resolution",
+    "definition": "the ability of an optical instrument to show small details clearly",
+    "variations": [
+      "resolution"
+    ],
+    "emoji": "🧠🔍",
+    "id": "gl405"
+  },
+  "resolving power": {
+    "word": "resolving power",
+    "definition": "the ability to tell two very close objects apart as separate",
+    "variations": [
+      "resolving power"
+    ],
+    "emoji": "👀✨",
+    "id": "gl406"
+  },
+  "retina": {
+    "word": "retina",
+    "definition": "The light-sensitive layer at the back of the eye where images are formed.",
+    "variations": [
+      "retina",
+      "retinas"
+    ],
+    "emoji": "👁️🧠",
+    "id": "gl407"
+  },
+  "reversibility of light": {
+    "word": "reversibility of light",
+    "definition": "the idea that light follows the same path if its direction is reversed",
+    "variations": [
+      "reversibility of light"
+    ],
+    "emoji": "↔️💡",
+    "id": "gl408"
+  },
+  "rewirable fuse": {
+    "word": "rewirable fuse",
+    "definition": "A fuse in which the fuse wire can be replaced after it melts.",
+    "variations": [
+      "rewirable fuse",
+      "rewirable fuses"
+    ],
+    "emoji": "🔧⚡",
+    "id": "gl409"
+  },
+  "RGB": {
+    "word": "RGB",
+    "definition": "A colour system that uses red, green, and blue light to create many colours.",
+    "variations": [
+      "RGB"
+    ],
+    "emoji": "🔴🟢🔵",
+    "id": "gl410"
+  },
+  "rheostat": {
+    "word": "rheostat",
+    "definition": "A variable resistor used to change the current in a circuit.",
+    "variations": [
+      "rheostat",
+      "rheostats"
+    ],
+    "emoji": "🎚️⚡",
+    "id": "gl411"
+  },
+  "right-angle mirror": {
+    "word": "right-angle mirror",
+    "definition": "a pair of mirrors joined so that they make a 90 degree angle",
+    "variations": [
+      "right-angle mirror",
+      "right-angle mirrors"
+    ],
+    "emoji": "🪞📐",
+    "id": "gl412"
+  },
+  "right-hand grip rule": {
+    "word": "right-hand grip rule",
+    "definition": "a rule used to find the north pole of a solenoid by curling the fingers of the right hand in the direction of current so the thumb points to the north pole",
+    "variations": [
+      "right-hand grip rule",
+      "right hand grip rule"
+    ],
+    "emoji": "✋🧲",
+    "id": "gl413"
+  },
+  "ring main": {
+    "word": "ring main",
+    "definition": "a house wiring system in which the cable forms a loop that starts and ends at the consumer unit",
+    "variations": [
+      "ring main",
+      "ring mains",
+      "ring main system"
+    ],
+    "emoji": "⭕🏠⚡",
+    "id": "gl414"
+  },
+  "rods": {
+    "word": "rods",
+    "definition": "special cells in the retina that help us see in dim light",
+    "variations": [
+      "rod",
+      "rods"
+    ],
+    "emoji": "🌙👁️",
+    "id": "gl415"
+  },
+  "roof prism": {
+    "word": "roof prism",
+    "definition": "a type of prism used in binoculars to turn the image upright in a compact shape",
+    "variations": [
+      "roof prism",
+      "roof prisms"
+    ],
+    "emoji": "🔺👀",
+    "id": "gl416"
+  },
+  "saturation": {
+    "word": "saturation",
+    "definition": "The state in which a material cannot be magnetised any more because most of its dipoles are already aligned.",
+    "variations": [
+      "saturation"
+    ],
+    "emoji": "🧲✅",
+    "id": "gl417"
+  },
+  "scatter": {
+    "word": "scatter",
+    "definition": "to spread light in many directions",
+    "variations": [
+      "scatter",
+      "scatters",
+      "scattered",
+      "scattering"
+    ],
+    "emoji": "✨↗️↘️",
+    "id": "gl418"
+  },
+  "sclera": {
+    "word": "sclera",
+    "definition": "the tough white outer covering of the eye",
+    "variations": [
+      "sclera",
+      "scleras"
+    ],
+    "emoji": "👁️⚪",
+    "id": "gl419"
+  },
+  "secondary cell": {
+    "word": "secondary cell",
+    "definition": "a cell that can be recharged after it runs down",
+    "variations": [
+      "secondary cell",
+      "secondary cells"
+    ],
+    "emoji": "🔋🔄",
+    "id": "gl420"
+  },
+  "secondary colours": {
+    "word": "secondary colours",
+    "definition": "colours formed by mixing two primary light colours, such as yellow, cyan, and magenta",
+    "variations": [
+      "secondary colour",
+      "secondary colours"
+    ],
+    "emoji": "🟡🩵🟣",
+    "id": "gl421"
+  },
+  "secondary image": {
+    "word": "secondary image",
+    "definition": "an image formed after light reflects more than once",
+    "variations": [
+      "secondary image",
+      "secondary images"
+    ],
+    "emoji": "2️⃣🪞",
+    "id": "gl422"
+  },
+  "secondary rainbow": {
+    "word": "secondary rainbow",
+    "definition": "a fainter rainbow formed outside the primary rainbow by two internal reflections inside raindrops",
+    "variations": [
+      "secondary rainbow",
+      "secondary rainbows"
+    ],
+    "emoji": "🌈2️⃣",
+    "id": "gl423"
+  },
+  "semiconductor": {
+    "word": "semiconductor",
+    "definition": "a material whose ability to conduct electricity is between that of a conductor and an insulator",
+    "variations": [
+      "semiconductor",
+      "semiconductors"
+    ],
+    "emoji": "💻⚡",
+    "id": "gl424"
+  },
+  "series": {
+    "word": "series",
+    "definition": "a way of connecting components one after another in a single path",
+    "variations": [
+      "series"
+    ],
+    "emoji": "🔗➡️",
+    "id": "gl425"
+  },
+  "series connection": {
+    "word": "series connection",
+    "definition": "A way of connecting components end to end so the same current flows through each one.",
+    "variations": [
+      "series connection",
+      "series configuration",
+      "in series"
+    ],
+    "emoji": "🔗⚡",
+    "id": "gl426"
+  },
+  "shadow": {
+    "word": "shadow",
+    "definition": "a dark area formed when an object blocks light",
+    "variations": [
+      "shadow",
+      "shadows"
+    ],
+    "emoji": "🌑👤",
+    "id": "gl427"
+  },
+  "short circuit": {
+    "word": "short circuit",
+    "definition": "an unwanted connection in a circuit that lets current pass through a very low-resistance path, causing a very large current",
+    "variations": [
+      "short circuit",
+      "short circuits",
+      "short-circuit",
+      "short-circuited",
+      "short-circuiting"
+    ],
+    "emoji": "⚡🔀",
+    "id": "gl428"
+  },
+  "short-circuit": {
+    "word": "short-circuit",
+    "definition": "an unwanted path in a circuit that lets a very large current flow",
+    "variations": [
+      "short-circuit",
+      "short-circuited",
+      "short-circuits"
+    ],
+    "emoji": "⚡⚠️",
+    "id": "gl429"
+  },
+  "shutter": {
+    "word": "shutter",
+    "definition": "the part of a camera that opens and closes to control how long light enters",
+    "variations": [
+      "shutter",
+      "shutters"
+    ],
+    "emoji": "📷⏱️",
+    "id": "gl430"
+  },
+  "sign convention": {
+    "word": "sign convention",
+    "definition": "A set of rules for deciding which distances are positive or negative in calculations.",
+    "variations": [
+      "sign convention",
+      "sign conventions"
+    ],
+    "emoji": "➕➖",
+    "id": "gl431"
+  },
+  "similar triangles": {
+    "word": "similar triangles",
+    "definition": "triangles that have the same shape but may have different sizes",
+    "variations": [
+      "similar triangle",
+      "similar triangles"
+    ],
+    "emoji": "🔺📏",
+    "id": "gl432"
+  },
+  "simple microscope": {
+    "word": "simple microscope",
+    "definition": "A magnifying device made of one convex lens used to make small objects look bigger.",
+    "variations": [
+      "simple microscope",
+      "simple microscopes"
+    ],
+    "emoji": "🔍🔬",
+    "id": "gl433"
+  },
+  "single-touch method": {
+    "word": "single-touch method",
+    "definition": "A method of magnetising using one magnet stroked along a material in one direction.",
+    "variations": [
+      "single-touch method"
+    ],
+    "emoji": "1️⃣🧲",
+    "id": "gl434"
+  },
+  "slide wire bridge": {
+    "word": "slide wire bridge",
+    "definition": "a modified Wheatstone bridge that uses a long wire to find an unknown resistance",
+    "variations": [
+      "slide wire bridge",
+      "slide wire bridges"
+    ],
+    "emoji": "📏🌉",
+    "id": "gl435"
+  },
+  "Snell’s law": {
+    "word": "Snell’s law",
+    "definition": "the law stating that for a given pair of materials, the ratio sin(i) to sin(r) stays constant",
+    "variations": [
+      "Snell's law",
+      "Snells law",
+      "Snell’s law"
+    ],
+    "emoji": "📐📘",
+    "id": "gl436"
+  },
+  "soft magnetic": {
+    "word": "soft magnetic",
+    "definition": "Describes a material that is easy to magnetise but loses its magnetism easily.",
+    "variations": [
+      "soft magnetic"
+    ],
+    "emoji": "🧲🧈",
+    "id": "gl437"
+  },
+  "solar energy": {
+    "word": "solar energy",
+    "definition": "energy that comes from the Sun and can be used to produce electricity or heat",
+    "variations": [
+      "solar energy"
+    ],
+    "emoji": "☀️🔋",
+    "id": "gl438"
+  },
+  "solenoid": {
+    "word": "solenoid",
+    "definition": "a coil of wire wound in loops that produces a magnetic field when electric current flows through it",
+    "variations": [
+      "solenoid",
+      "solenoids"
+    ],
+    "emoji": "🌀🔌",
+    "id": "gl439"
+  },
+  "source of light": {
+    "word": "source of light",
+    "definition": "Anything that produces light.",
+    "variations": [
+      "source of light",
+      "sources of light"
+    ],
+    "emoji": "💡🌟",
+    "id": "gl440"
+  },
+  "south pole": {
+    "word": "south pole",
+    "definition": "The end of a magnet that points south when the magnet is freely suspended.",
+    "variations": [
+      "south pole",
+      "south poles"
+    ],
+    "emoji": "🧭⬇️",
+    "id": "gl441"
+  },
+  "south-seeking pole": {
+    "word": "south-seeking pole",
+    "definition": "The pole of a magnet that points toward the south when it is free to turn.",
+    "variations": [
+      "south-seeking pole",
+      "south-seeking poles"
+    ],
+    "emoji": "🧭⬇️",
+    "id": "gl442"
+  },
+  "spark": {
+    "word": "spark",
+    "definition": "a small flash of light produced when electric charge suddenly moves through the air",
+    "variations": [
+      "spark",
+      "sparks"
+    ],
+    "emoji": "✨⚡",
+    "id": "gl443"
+  },
+  "specimen": {
+    "word": "specimen",
+    "definition": "a sample or object prepared for study, especially under a microscope",
+    "variations": [
+      "specimen",
+      "specimens"
+    ],
+    "emoji": "🧫🔬",
+    "id": "gl444"
+  },
+  "spectrum": {
+    "word": "spectrum",
+    "definition": "the band of colours formed when white light is split",
+    "variations": [
+      "spectrum",
+      "spectra"
+    ],
+    "emoji": "🌈🎨",
+    "id": "gl445"
+  },
+  "spherical mirror": {
+    "word": "spherical mirror",
+    "definition": "a curved mirror shaped like part of a sphere",
+    "variations": [
+      "spherical mirror",
+      "spherical mirrors"
+    ],
+    "emoji": "🪞⚪",
+    "id": "gl446"
+  },
+  "spin": {
+    "word": "spin",
+    "definition": "the turning motion of a particle such as an electron around its own axis",
+    "variations": [
+      "spin",
+      "spins",
+      "spinning"
+    ],
+    "emoji": "🌀⚛️",
+    "id": "gl447"
+  },
+  "stage": {
+    "word": "stage",
+    "definition": "the flat part of a microscope where the object or slide is placed",
+    "variations": [
+      "stage",
+      "stages"
+    ],
+    "emoji": "🔬🟦",
+    "id": "gl448"
+  },
+  "static electricity": {
+    "word": "static electricity",
+    "definition": "electric charge that builds up and stays on the surface of a material instead of flowing as a current",
+    "variations": [
+      "static electricity"
+    ],
+    "emoji": "⚡🧲",
+    "id": "gl449"
+  },
+  "stroking": {
+    "word": "stroking",
+    "definition": "A method of magnetising in which a magnet is rubbed along a material in one direction many times.",
+    "variations": [
+      "stroke",
+      "stroked",
+      "stroking",
+      "strokes"
+    ],
+    "emoji": "🧲➡️",
+    "id": "gl450"
+  },
+  "subtended angle": {
+    "word": "subtended angle",
+    "definition": "the angle formed by lines drawn from the eye or lens to the top and bottom of an object or image",
+    "variations": [
+      "subtended angle",
+      "subtended angles"
+    ],
+    "emoji": "📐👁️",
+    "id": "gl451"
+  },
+  "subtractive colour mixing": {
+    "word": "subtractive colour mixing",
+    "definition": "A way of making colours by mixing paints, inks, or pigments that absorb some light colours.",
+    "variations": [
+      "subtractive colour mixing",
+      "subtractive mixing"
+    ],
+    "emoji": "➖🎨🖍️",
+    "id": "gl452"
+  },
+  "subtractive mixing": {
+    "word": "subtractive mixing",
+    "definition": "The mixing of pigments or colours where some light is absorbed, often making darker colours.",
+    "variations": [
+      "subtractive mixing"
+    ],
+    "emoji": "🎨➖",
+    "id": "gl453"
+  },
+  "sulphated": {
+    "word": "sulphated",
+    "definition": "damaged by too much lead sulphate forming on a battery, so it can no longer recharge properly",
+    "variations": [
+      "sulphated",
+      "sulphation"
+    ],
+    "emoji": "🔋⚠️",
+    "id": "gl454"
+  },
+  "surplus": {
+    "word": "surplus",
+    "definition": "an extra amount more than what is needed or expected",
+    "variations": [
+      "surplus",
+      "surpluses"
+    ],
+    "emoji": "➕📦",
+    "id": "gl455"
+  },
+  "surveillance": {
+    "word": "surveillance",
+    "definition": "careful watching of a place or person, often for safety or security",
+    "variations": [
+      "surveillance"
+    ],
+    "emoji": "📹👀",
+    "id": "gl456"
+  },
+  "symmetric": {
+    "word": "symmetric",
+    "definition": "having two halves that match in shape and size",
+    "variations": [
+      "symmetric",
+      "symmetry"
+    ],
+    "emoji": "⚖️🟰",
+    "id": "gl457"
+  },
+  "telephoto lens": {
+    "word": "telephoto lens",
+    "definition": "a lens used to photograph faraway objects so they appear larger",
+    "variations": [
+      "telephoto lens",
+      "telephoto lenses"
+    ],
+    "emoji": "📷🔭",
+    "id": "gl458"
+  },
+  "telescope": {
+    "word": "telescope",
+    "definition": "An instrument used to see distant objects, especially objects in the sky.",
+    "variations": [
+      "telescope",
+      "telescopes"
+    ],
+    "emoji": "🔭🌟",
+    "id": "gl459"
+  },
+  "temperature": {
+    "word": "temperature",
+    "definition": "a measure of how hot or cold something is",
+    "variations": [
+      "temperature",
+      "temperatures"
+    ],
+    "emoji": "🌡️🔥",
+    "id": "gl460"
+  },
+  "temperature change": {
+    "word": "temperature change",
+    "definition": "The amount by which temperature increases or decreases.",
+    "variations": [
+      "temperature change",
+      "temperature changes"
+    ],
+    "emoji": "🌡️⬆️",
+    "id": "gl461"
+  },
+  "temporary magnet": {
+    "word": "temporary magnet",
+    "definition": "A magnet that keeps its magnetism only for a short time or only while a magnetic field is present.",
+    "variations": [
+      "temporary magnet",
+      "temporary magnets"
+    ],
+    "emoji": "🧲⏳",
+    "id": "gl462"
+  },
+  "terminal": {
+    "word": "terminal",
+    "definition": "The end of a cell or component where connection is made.",
+    "variations": [
+      "terminal",
+      "terminals"
+    ],
+    "emoji": "🔌",
+    "id": "gl463"
+  },
+  "Tesla": {
+    "word": "Tesla",
+    "definition": "The SI unit used to measure magnetic field strength.",
+    "variations": [
+      "Tesla",
+      "Teslas",
+      "T"
+    ],
+    "emoji": "🧲📐",
+    "id": "gl464"
+  },
+  "tester": {
+    "word": "tester",
+    "definition": "a simple tool used to check whether a wire or socket is live",
+    "variations": [
+      "tester",
+      "testers",
+      "live mains lead indicator"
+    ],
+    "emoji": "🪛⚡",
+    "id": "gl465"
+  },
+  "thermal energy": {
+    "word": "thermal energy",
+    "definition": "Heat energy; the energy that makes things warmer.",
+    "variations": [
+      "thermal energy"
+    ],
+    "emoji": "🌡️🔥",
+    "id": "gl466"
+  },
+  "thermistor": {
+    "word": "thermistor",
+    "definition": "a resistor whose resistance changes with temperature",
+    "variations": [
+      "thermistor",
+      "thermistors"
+    ],
+    "emoji": "🌡️⚡",
+    "id": "gl467"
+  },
+  "thin lens": {
+    "word": "thin lens",
+    "definition": "A lens that is treated as very thin, so light is considered to bend at its centre plane.",
+    "variations": [
+      "thin lens",
+      "thin lenses"
+    ],
+    "emoji": "🔎📏",
+    "id": "gl468"
+  },
+  "thin lens formula": {
+    "word": "thin lens formula",
+    "definition": "The equation 1/f = 1/u + 1/v used to find image position in thin lenses.",
+    "variations": [
+      "thin lens formula",
+      "thin lens formulas"
+    ],
+    "emoji": "🧮📏",
+    "id": "gl469"
+  },
+  "three-pin plug": {
+    "word": "three-pin plug",
+    "definition": "A plug with live, neutral, and earth connections used for safer electrical connection.",
+    "variations": [
+      "three-pin plug",
+      "three-pin plugs"
+    ],
+    "emoji": "🔌3️⃣",
+    "id": "gl470"
+  },
+  "thunder": {
+    "word": "thunder",
+    "definition": "the loud sound caused by the rapid expansion of air heated by lightning",
+    "variations": [
+      "thunders"
+    ],
+    "emoji": "🌩️🔊",
+    "id": "gl471"
+  },
+  "thunderstorm": {
+    "word": "thunderstorm",
+    "definition": "a storm with lightning, thunder, and often heavy rain and strong winds",
+    "variations": [
+      "thunderstorms"
+    ],
+    "emoji": "⛈️⚡",
+    "id": "gl472"
+  },
+  "tissue": {
+    "word": "tissue",
+    "definition": "a group of similar cells working together in a living thing",
+    "variations": [
+      "tissue",
+      "tissues"
+    ],
+    "emoji": "🫀🔬",
+    "id": "gl473"
+  },
+  "total internal reflection": {
+    "word": "total internal reflection",
+    "definition": "the complete reflection of light back into a denser material when it tries to move into a less dense material at a large angle",
+    "variations": [
+      "total internal reflection"
+    ],
+    "emoji": "💡🔁",
+    "id": "gl474"
+  },
+  "translucent": {
+    "word": "translucent",
+    "definition": "allowing only some light to pass through, so objects cannot be seen clearly",
+    "variations": [
+      "translucent"
+    ],
+    "emoji": "🚿🌫️",
+    "id": "gl475"
+  },
+  "transmission": {
+    "word": "transmission",
+    "definition": "the passing of light through a material",
+    "variations": [
+      "transmission",
+      "transmissions",
+      "transmit",
+      "transmitted",
+      "transmitting"
+    ],
+    "emoji": "🔦➡️",
+    "id": "gl476"
+  },
+  "transmit": {
+    "word": "transmit",
+    "definition": "To allow light to pass through something.",
+    "variations": [
+      "transmit",
+      "transmits",
+      "transmitted",
+      "transmitting",
+      "transmission"
+    ],
+    "emoji": "➡️💡",
+    "id": "gl477"
+  },
+  "transparent": {
+    "word": "transparent",
+    "definition": "allowing light to pass through so objects can be seen clearly",
+    "variations": [
+      "transparent"
+    ],
+    "emoji": "🪟👀",
+    "id": "gl478"
+  },
+  "tree system": {
+    "word": "tree system",
+    "definition": "a house wiring method where cables branch out from the main supply like branches of a tree",
+    "variations": [
+      "tree system",
+      "tree systems"
+    ],
+    "emoji": "🌳🏠⚡",
+    "id": "gl479"
+  },
+  "triangular prism": {
+    "word": "triangular prism",
+    "definition": "a transparent solid with triangular ends that can bend and split light",
+    "variations": [
+      "triangular prism",
+      "triangular prisms"
+    ],
+    "emoji": "🔺💎",
+    "id": "gl480"
+  },
+  "triboelectric series": {
+    "word": "triboelectric series",
+    "definition": "a list of materials arranged by how likely they are to gain or lose electrons when rubbed",
+    "variations": [
+      "triboelectric series"
+    ],
+    "emoji": "📋⚡",
+    "id": "gl481"
+  },
+  "two-pin plug": {
+    "word": "two-pin plug",
+    "definition": "A plug with only two connections, usually live and neutral, and no earth pin.",
+    "variations": [
+      "two-pin plug",
+      "two-pin plugs"
+    ],
+    "emoji": "🔌2️⃣",
+    "id": "gl482"
+  },
+  "umbra": {
+    "word": "umbra",
+    "definition": "the darkest part of a shadow where light is completely blocked",
+    "variations": [
+      "umbra",
+      "umbrae"
+    ],
+    "emoji": "🌑⬛",
+    "id": "gl483"
+  },
+  "uniform field": {
+    "word": "uniform field",
+    "definition": "A field that has the same strength and direction at every point.",
+    "variations": [
+      "uniform field",
+      "uniform fields"
+    ],
+    "emoji": "〰️📐",
+    "id": "gl484"
+  },
+  "unmagnetised": {
+    "word": "unmagnetised",
+    "definition": "Not yet made into a magnet.",
+    "variations": [
+      "unmagnetised"
+    ],
+    "emoji": "🧲⭕",
+    "id": "gl485"
+  },
+  "upright": {
+    "word": "upright",
+    "definition": "Describes an image that is in the same vertical position as the object, not turned upside down.",
+    "variations": [
+      "upright"
+    ],
+    "emoji": "⬆️🖼️",
+    "id": "gl486"
+  },
+  "vacuum": {
+    "word": "vacuum",
+    "definition": "a space with no matter, where light travels at its greatest speed",
+    "variations": [
+      "vacuum",
+      "vacuums"
+    ],
+    "emoji": "🌌⚫",
+    "id": "gl487"
+  },
+  "variable capacitor": {
+    "word": "variable capacitor",
+    "definition": "a capacitor whose capacitance can be changed",
+    "variations": [
+      "variable capacitor",
+      "variable capacitors"
+    ],
+    "emoji": "🎛️⚡",
+    "id": "gl488"
+  },
+  "variable resistor": {
+    "word": "variable resistor",
+    "definition": "a resistor whose resistance can be changed",
+    "variations": [
+      "variable resistor",
+      "variable resistors"
+    ],
+    "emoji": "🎚️⚡",
+    "id": "gl489"
+  },
+  "vertex": {
+    "word": "vertex",
+    "definition": "the middle point of a curved mirror surface",
+    "variations": [
+      "vertex",
+      "vertices"
+    ],
+    "emoji": "📍🧭",
+    "id": "gl490"
+  },
+  "vertical plane": {
+    "word": "vertical plane",
+    "definition": "A flat surface or direction that goes straight up and down.",
+    "variations": [
+      "vertical plane",
+      "vertical planes"
+    ],
+    "emoji": "⬆️📏",
+    "id": "gl491"
+  },
+  "virtual": {
+    "word": "virtual",
+    "definition": "In optics, describing a point from which light rays only appear to come.",
+    "variations": [
+      "virtual"
+    ],
+    "emoji": "👻💡",
+    "id": "gl492"
+  },
+  "virtual image": {
+    "word": "virtual image",
+    "definition": "An image that appears to come from a place, but light rays do not actually meet there.",
+    "variations": [
+      "virtual image",
+      "virtual images"
+    ],
+    "emoji": "🪞✨",
+    "id": "gl493"
+  },
+  "vision": {
+    "word": "vision",
+    "definition": "The ability to see.",
+    "variations": [
+      "vision"
+    ],
+    "emoji": "👀",
+    "id": "gl494"
+  },
+  "vitreous humour": {
+    "word": "vitreous humour",
+    "definition": "the clear jelly inside the eye behind the lens that helps keep the eye’s shape",
+    "variations": [
+      "vitreous humour"
+    ],
+    "emoji": "💧👁️",
+    "id": "gl495"
+  },
+  "volt": {
+    "word": "volt",
+    "definition": "the unit used to measure potential difference",
+    "variations": [
+      "volt",
+      "volts"
+    ],
+    "emoji": "⚡📏",
+    "id": "gl496"
+  },
+  "voltage": {
+    "word": "voltage",
+    "definition": "another name for potential difference",
+    "variations": [
+      "voltage",
+      "voltages"
+    ],
+    "emoji": "🔌⚡",
+    "id": "gl497"
+  },
+  "voltage drop": {
+    "word": "voltage drop",
+    "definition": "the decrease in electrical potential across a part of a circuit",
+    "variations": [
+      "voltage drop",
+      "voltage drops"
+    ],
+    "emoji": "📉⚡",
+    "id": "gl498"
+  },
+  "voltmeter": {
+    "word": "voltmeter",
+    "definition": "An instrument used to measure potential difference or voltage.",
+    "variations": [
+      "voltmeter",
+      "voltmeters"
+    ],
+    "emoji": "📏🔋",
+    "id": "gl499"
+  },
+  "watt": {
+    "word": "watt",
+    "definition": "The SI unit of power, equal to one joule per second.",
+    "variations": [
+      "watt",
+      "watts"
+    ],
+    "emoji": "💡⚡",
+    "id": "gl500"
+  },
+  "wavelength": {
+    "word": "wavelength",
+    "definition": "the distance between one wave and the next wave of the same kind",
+    "variations": [
+      "wavelength",
+      "wavelengths"
+    ],
+    "emoji": "〰️📏",
+    "id": "gl501"
+  },
+  "Wheatstone bridge": {
+    "word": "Wheatstone bridge",
+    "definition": "an electrical circuit used to measure an unknown resistance very accurately",
+    "variations": [
+      "Wheatstone bridge",
+      "Wheatstone bridges"
+    ],
+    "emoji": "🌉⚡",
+    "id": "gl502"
+  },
+  "wide angle lens": {
+    "word": "wide angle lens",
+    "definition": "a lens that captures a wide area in one picture",
+    "variations": [
+      "wide angle lens",
+      "wide angle lenses"
+    ],
+    "emoji": "📷🌄",
+    "id": "gl503"
+  },
+  "zoom lens": {
+    "word": "zoom lens",
+    "definition": "a lens whose focal length can be changed to make objects look nearer or farther",
+    "variations": [
+      "zoom lens",
+      "zoom lenses"
+    ],
+    "emoji": "🔍📷",
+    "id": "gl504"
+  }
+}
